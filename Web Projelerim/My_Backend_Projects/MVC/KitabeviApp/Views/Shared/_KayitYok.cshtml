@@ -1,0 +1,18 @@
+
+@{
+    string tip="";
+    if (ViewBag.Tip=="Kategori")
+    {
+        tip="kategoriye";
+    }else if (ViewBag.Tip=="Yazar")
+    {
+        tip="yazara";
+    }
+}
+<div class="row">
+    <div class="col-12">
+        <div class="alert alert-danger">
+               Bu @tip ait bir kitap bulunamadı!
+        </div>
+    </div>
+</div>

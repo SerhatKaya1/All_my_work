@@ -1,0 +1,51 @@
+﻿@using ShoppingApp.Entity.Concrete
+@model Product
+
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-danger btn-sm" data-bs-toggle="modal" data-bs-target="#modalProductDelete_@Model.Id">
+    Sil
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="modalProductDelete_@Model.Id" tabindex="-1" aria-labelledby="modalLabelProductDelete_@Model.Id" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalLabelProductDelete_@Model.Id">Dikkat!</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div>
+                    <img src="~/images/@Model.ImageUrl" width="135"/>
+                </div>
+                <div class="mt-3 ms-1">
+                    <strong>@Model.Name</strong> adlı ürünü silmek istediğinizden emin misiniz?
+                </div>
+            </div>
+            <div class="modal-footer d-flex justify-content-center">
+                <a
+                    class="btn btn-primary"
+                    id="productDeleteForm_@Model.Id"
+                    asp-area="Admin"
+                    asp-controller="Product"
+                    asp-action="Delete"
+                    asp-route-id="@Model.Id"
+                    >
+                   Evet
+                </a>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Hayır</button>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+@*<a class="btn btn-danger btn-sm"
+   asp-area="Admin"
+   asp-controller="Product"
+   asp-action="Delete"
+   asp-route-id=@Model.Id>Sil</a>*@

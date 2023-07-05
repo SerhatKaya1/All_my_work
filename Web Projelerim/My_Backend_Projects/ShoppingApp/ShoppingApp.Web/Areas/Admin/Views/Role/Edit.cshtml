@@ -1,0 +1,59 @@
+﻿@using ShoppingApp.Core;
+@model RoleDetailsDto
+<h3><span class="text-danger">@Model.Role.Name</span> Rolü Kullanıcılarını Düzenle</h3>
+<hr />
+<form asp-area="Admin"
+      asp-controller="Role"
+      asp-action="Edit"
+      method="post">
+    <input type="hidden" name="RoleId" value="@Model.Role.Id" />
+    <input type="hidden" name="RoleName" value="@Model.Role.Name" />
+    <input type="hidden" name="From" value="@ViewBag.From" />
+
+    <div class="row">
+        @*NonMembers*@
+        <div class="col-6">
+            <h6 class="bg-success text-white p-3">@Model.Role.Name Rolüne Ekle</h6>
+            @if (Model.NonMembers.Count == 0)
+            {
+                <div class="alert alert-warning">Tüm kullanıcılar zaten @Model.Role.Name rolüne ait.</div>
+            }
+            else
+            {
+                <table class="table table-sm table-bordered">
+                    @foreach (var user in Model.NonMembers)
+                    {
+                        <tr>
+                            <td>
+                                <input class="form-check-input" type="checkbox" name="IdsToAdd" value="@user.Id" /> @user.UserName
+                            </td>
+                        </tr>
+                    }
+                </table>
+            }
+        </div>
+
+        @*Members*@
+        <div class="col-6">
+            <h6 class="bg-danger text-white p-3">@Model.Role.Name Rolünden Çıkar</h6>
+            @if (Model.Members.Count == 0)
+            {
+                <div class="alert alert-warning">@Model.Role.Name rolüne ait hiç kullanıcı yok.</div>
+            }
+            else
+            {
+                <table class="table table-sm table-bordered">
+                    @foreach (var user in Model.Members)
+                    {
+                    <tr>
+                        <td>
+                            <input class="form-check-input" type="checkbox" name="IdsToRemove" value="@user.Id" /> @user.UserName
+                        </td>
+                    </tr>
+                    }
+                </table>
+            }
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Değişiklikleri Kaydet</button>
+</form>

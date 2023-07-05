@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css">
+    <title>Carousel</title>
+</head>
+
+<body>
+
+    <div class="container d-flex justify-content-center mt-5">
+        <div class="carousel slide carousel-fade w-50" id="mySlider" data-bs-ride="carousel">
+            <ol class="carousel-indicators">
+                <li class="active" data-bs-target="#mySlider" data-bs-slide-to="0"></li>
+                <li data-bs-target="#mySlider" data-bs-slide-to="1"></li>
+                <li data-bs-target="#mySlider" data-bs-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item active" data-bs-interval="10000">
+                    <img src="images/slide-1.jpeg" class="d-block w-100" alt="">
+                    <div class="carousel-caption">
+                        <h2>Slide 1</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, ipsa!</p>
+                    </div>
+                </div>
+                <div class="carousel-item data-bs-interval="1000">
+                    <img src="images/slide-2.jpeg" class="d-block w-100" alt="">
+                    <div class="carousel-caption">
+                        <h2>Slide 2</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, ipsa!</p>
+                    </div>
+                </div>
+                <div class="carousel-item" data-bs-interval="1000">
+                    <img src="images/slide-3.jpeg" class="d-block w-100" alt="">
+                    <div class="carousel-caption">
+                        <h2>Slide3-</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, ipsa!</p>
+                    </div>
+                </div>
+            </div>
+            <a href="#mySlider" class="carousel-control-prev" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </a>
+            <a href="#mySlider" class="carousel-control-next" data-bs-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </a>
+        </div>
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

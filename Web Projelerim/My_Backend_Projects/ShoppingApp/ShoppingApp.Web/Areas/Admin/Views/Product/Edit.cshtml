@@ -1,0 +1,114 @@
+﻿@using ShoppingApp.Entity.Concrete
+@model ProductUpdateDto
+<h1>Ürün Güncelleniyor</h1>
+<hr />
+<form asp-area="Admin"
+      asp-controller="Product"
+      asp-action="Edit"
+      method="post"
+      enctype="multipart/form-data">
+    <div class="row">
+        <div class="col-8">
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label"></label>
+                <input class="form-control" asp-for="Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Price" class="form-label"></label>
+                <input class="form-control" asp-for="Price">
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <img id="img-viewer" src="/images/@Model.ImageUrl" width="135"/>
+                <input class="d-none" type="file" asp-for="ImageFile" accept="image/" />
+                <div>
+                    <label for="ImageFile" class="btn btn-success">Resim Yükle</label>
+                    <label id="img-url">@Model.ImageUrl</label>
+                </div>
+                <span asp-validation-for="ImageFile" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Description" class="form-label"></label>
+                <textarea id="desc-editor" class="form-control" name="Description" >@Html.Raw(Model.Description) </textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary btn-sm" id="btn-save">Kaydet</button>
+            @{
+                Product product = new Product
+                {
+                    Id=Model.Id,
+                    Name=Model.Name,
+                    ImageUrl=Model.ImageUrl
+                };
+            }
+            @await Html.PartialAsync("_ProductDeletePartial", product)
+            <a type="button" class="btn btn-light btn-sm"
+               asp-area="Admin"
+               asp-controller="Product"
+               asp-action="Index">Vazgeç</a>
+        </div>
+        <div class="col-4">
+            <div class="mb-3">
+                <label class="form-label" asp-for="Categories"></label>
+                @foreach (var category in Model.Categories)
+                {
+                    <div>
+                        <input type="checkbox"
+                           class="form-check-input"
+                           name="selectedCategoryIds"
+                           value="@category.Id"
+                           @if (Model.SelectedCategoryIds!=null)
+                           {
+                           @(Model.SelectedCategoryIds.Any(sc=>sc==category.Id) ? "checked" : "")
+                           } />
+                        <label>@category.Name</label>
+                    </div>
+                }
+                <span asp-validation-for="SelectedCategoryIds" class="text-danger"></span>
+            </div>
+
+            <div class="mb-1">Seçenekler</div>
+            <div>
+                <input type="checkbox"
+                       class="form-check-input"
+                       asp-for="IsHome" />
+                <label asp-for="IsHome" class="form-label"></label>
+                <span asp-validation-for="IsHome" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <input type="checkbox"
+                       class="form-check-input"
+                       asp-for="IsApproved" />
+                <label asp-for="IsApproved" class="form-label"></label>
+                <span asp-validation-for="IsApproved" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts{
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+        <script src="https://cdn.ckeditor.com/ckeditor5/35.4.0/classic/ckeditor.js"></script>
+    <script>
+    ClassicEditor
+        .create( document.querySelector( '#desc-editor' ) )
+        .catch( error => {
+            console.error( error );
+        } );
+    </script>
+}
+
+<script>
+
+    const imgViewer = document.getElementById('img-viewer');
+    const imgUrl = document.getElementById('img-url');
+    const imgFile = document.getElementById('ImageFile');
+
+    imgFile.addEventListener('change', function(event){
+        const files = event.target.files;
+        imgViewer.setAttribute('src',window.URL.createObjectURL(files[0]));
+        //imgUrl.innerText=imgViewer.getAttribute('src');
+        imgUrl.innerText=files[0].name;
+    });
+</script>

@@ -1,0 +1,62 @@
+﻿@model UserManageDto
+<h1>Hesabımı Yönet</h1>
+<hr />
+<form asp-controller="Account"
+      asp-action="Manage"
+      method="post">
+      <input type="hidden" name="Id" value="@Model.Id" />
+    <div class="row">
+        <div asp-validation-summary="All" class="text-danger"></div>
+
+        <div class="col-6 mb-3">
+            <label asp-for="FirstName" class="form-label"></label>
+            <input class="form-control" asp-for="FirstName">
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+        <div class="col-6 mb-3">
+            <label asp-for="LastName" class="form-label"></label>
+            <input class="form-control" asp-for="LastName">
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+        <div class="col-6 mb-3">
+            <label asp-for="UserName" class="form-label"></label>
+            <input class="form-control" asp-for="UserName">
+            <span asp-validation-for="UserName" class="text-danger"></span>
+        </div>
+        <div class="col-6 mb-3">
+            <label asp-for="Email" class="form-label"></label>
+            <input class="form-control" asp-for="Email">
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="col-6 mb-3">
+            <label asp-for="Gender" class="form-label"></label>
+            <select asp-for="Gender" asp-items="@Model.GenderSelectList" class="form-select">
+            </select>
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        @{
+            DateTime today = DateTime.Now;
+            int yearToday = today.Year;
+            int year = yearToday - 18;
+            int month = today.Month;
+            int day = today.Day;
+            DateTime minBirthOfDate = new DateTime(year, month, day);
+        }
+        <div class="col-6 mb-3">
+            <label asp-for="DateOfBirth" class="form-label"></label>
+            <input 
+                type="date" 
+                class="form-control" 
+                asp-for="DateOfBirth"
+                value="@(Model.DateOfBirth.ToString("yyyy-MM-dd")=="0001-01-01" ? minBirthOfDate.ToString("yyyy-MM-dd") : Model.DateOfBirth.ToString("yyyy-MM-dd"))"
+                min="1900-01-01"
+                max="@minBirthOfDate.ToString("yyyy-MM-dd")"
+            >
+            <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Değişiklikleri Kaydet</button>
+        <a type="button" class="btn btn-light"
+           asp-controller="Home"
+           asp-action="Index">Vazgeç</a>
+    </div>
+</form>

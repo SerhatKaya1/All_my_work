@@ -1,0 +1,42 @@
+@model List<KitapListViewModel>
+@{
+    ViewData["Title"] = "Kitap Listesi";
+}
+
+<h1 class="display-6">Kitap Listesi</h1>
+<hr>
+<a asp-controller="Home" asp-action="KitapEkle" class="btn btn-outline-primary">Yeni Kitap</a>
+<hr>
+<table class="table table-sm table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Kitap</th>
+            <th>Yazar</th>
+            <th>Kategori</th>
+            <th>Basım Yılı</th>
+            <th>Sayfa Sayısı</th>
+            <th width="135">İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var y in Model)
+        {
+            <tr>
+                <td>@y.Id</td>
+                <td>@y.Ad</td>
+                <td>@y.YazarAd</td>
+                <td>@y.KategoriAd</td>
+                <td>@y.BasimYili</td>
+                <td>@y.SayfaSayisi</td>
+                <td>
+                    <a class="btn btn-sm btn-warning me-2" asp-controller="Home" asp-action="KitapGuncelle"
+                    asp-route-id=@y.Id>Güncelle</a>
+
+                    <a class="btn btn-sm btn-danger me-2" asp-controller="Home" asp-action="KitapSil"
+                    asp-route-id=@y.Id>Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

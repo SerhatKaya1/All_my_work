@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\ShoppingApp.Entity\ShoppingApp.Entity.csproj"></ProjectReference>
+	</ItemGroup>
+	<ItemGroup>
+	  <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.1" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.1">
+	    <PrivateAssets>all</PrivateAssets>
+	    <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	  </PackageReference>
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="7.0.1" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.1" />
+	</ItemGroup>
+</Project>

@@ -1,0 +1,35 @@
+﻿@using ShoppingApp.Web.Models.Dtos
+@model List<OrderListDto>
+
+<table id="myDataTable" class="table table-bordered table-striped table-sm">
+    <thead>
+        <tr class="bg-danger text-white">
+            <th>Müşteri</th>
+            <th>Sipariş No</th>
+            <th>Tarih</th>
+            <th>Tutar</th>
+            <th>Sipariş Detayı</th>
+        </tr>
+    </thead>
+    <tbody>
+         @foreach (var orderListDto in Model)
+        {
+            <tr>
+                <td>@orderListDto.FirstName @orderListDto.LastName</td>
+                <td>@orderListDto.OrderNumber</td>
+                <td>@orderListDto.OrderDate.ToShortDateString()</td>
+                <td>@($"{orderListDto.TotalPrice():C0}")</td>
+                <td>
+                    @await Html.PartialAsync("_OrderDetailPartial", orderListDto)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Styles{
+    @await Html.PartialAsync("_DataTablesStylesPartial")
+}
+@section Scripts{
+    @await Html.PartialAsync("_DataTablesScriptsPartial")
+}

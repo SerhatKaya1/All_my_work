@@ -1,0 +1,42 @@
+﻿@using ShoppingApp.Web.Models.Dtos
+@model ProductDetailsDto
+
+<div class="card">
+    <div class="card-body">
+        <div class="row">
+            <div class="col-4 text-center">
+                @* Resim gelecek *@
+                <img src="~/images/@Model.ImageUrl">
+            </div>
+            <div class="col-8">
+                @* Diğer detaylar gelecek *@
+                <h1 class="card-title display-6">@Model.Name</h1>
+                @foreach (var category in Model.Categories)
+                {
+                    <a href="#" class="btn btn-link p-0 mb-3">@category.Name</a>
+                }
+                <p class="card-text">@Html.Raw(Model.Description)</p>
+                <p class="card-text">@($"{Model.Price:C0}")</p>
+                <form asp-controller="Card" asp-action="AddToCard" method="post">
+                    <input type="hidden" name="productId" value="@Model.Id" />
+
+                    <button type="submit" class="btn btn-success">Sepete Ekle</button>
+                    <input type="number" class="form-control d-inline-block" name="quantity" value="1" min="1"
+                        style="width: 75px;" />
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<hr />
+<div class="row">
+    <div class="col-4">
+        <h6 class="bg-info p-2 text-center">Ödeme Seçenekleri</h6>
+    </div>
+    <div class="col-4">
+        <h6 class="bg-danger text-white p-2 text-center">İlgini Çekebilir</h6>
+    </div>
+    <div class="col-4">
+        <h6 class="bg-success text-white p-2 text-center">Çok Satanlar</h6>
+    </div>
+</div>

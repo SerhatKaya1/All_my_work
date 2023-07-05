@@ -1,0 +1,62 @@
+﻿@model UserAddDto
+<form asp-area="Admin"
+      asp-controller="User"
+      asp-action="Create"
+      method="post">
+    <div class="row">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="col-8">
+            <div class="mb-3">
+                <label asp-for="UserDto.FirstName" class="form-label"></label>
+                <input class="form-control" asp-for="UserDto.FirstName">
+                <span asp-validation-for="UserDto.FirstName" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="UserDto.LastName" class="form-label"></label>
+                <input class="form-control" asp-for="UserDto.LastName">
+                <span asp-validation-for="UserDto.LastName" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="UserDto.UserName" class="form-label"></label>
+                <input class="form-control" asp-for="UserDto.UserName">
+                <span asp-validation-for="UserDto.UserName" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="UserDto.Email" class="form-label"></label>
+                <input class="form-control" asp-for="UserDto.Email">
+                <span asp-validation-for="UserDto.Email" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Oluştur</button>
+            <a type="button" class="btn btn-light"
+                asp-area="Admin"
+               asp-controller="User"
+               asp-action="Index">Vazgeç</a>
+        </div>
+        <div class="col-4">
+            @foreach (var role in Model.Roles)
+            {
+                <div class="form-check">
+                    <input 
+                        class="form-check-input"
+                        type="checkbox"
+                        name="selectedRoles"
+                        value="@role.Name"
+                        @(Model.SelectedRoles.Any(sr=>sr==role.Name) ? "checked" : "")
+                        />
+                        <label class="form-check-label">@role.Name</label>
+                </div>
+
+            }
+            <span class="text-danger" asp-validation-for="SelectedRoles"></span>
+            <hr />
+            <div class="form-check">
+                <input 
+                    class="form-check-input" 
+                    type="checkbox" 
+                    asp-for="UserDto.EmailConfirmed" />
+                <label asp-for="UserDto.EmailConfirmed" class="form-check-label"></label>
+            </div>
+        </div>
+    </div>
+</form>

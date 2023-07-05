@@ -1,0 +1,47 @@
+﻿@model RegisterDto
+<h1>KAYIT OL</h1>
+<hr />
+<form 
+      asp-controller="Account"
+      asp-action="Register"
+      method="post">
+    <div class="row">
+        <div class="col-4">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="mb-3">
+                <label asp-for="FirstName" class="form-label"></label>
+                <input class="form-control" asp-for="FirstName">
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="LastName" class="form-label"></label>
+                <input class="form-control" asp-for="LastName">
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="UserName" class="form-label"></label>
+                <input class="form-control" asp-for="UserName">
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Email" class="form-label"></label>
+                <input class="form-control" asp-for="Email">
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Password" class="form-label"></label>
+                <input class="form-control" asp-for="Password">
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="RePassword" class="form-label"></label>
+                <input class="form-control" asp-for="RePassword">
+                <span asp-validation-for="RePassword" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary">Kayıt Ol</button>
+            <a type="button" class="btn btn-light"
+               asp-controller="Home"
+               asp-action="Index">Vazgeç</a>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,53 @@
+﻿<div class="display-6 fs-4 fw-normal">
+    <a class="text-decoration-none text-danger" 
+       asp-area="Admin"
+       asp-controller="Home"
+       asp-action="Index">ShopApp Admin</a>
+</div>
+<div class="mb-2 pt-2">
+    <a href="/" target="_blank">Uygulamayı Aç</a>
+</div>
+<hr />
+<div class="list-group">
+
+    <a asp-area="Admin"
+       asp-controller="Category"
+       asp-action="Index"
+       class="list-group-item list-group-item-action @(ViewBag.SelectedMenu=="Category" ? "active" : "")" >Kategoriler</a>
+
+    <a asp-area="Admin"
+       asp-controller="Product"
+       asp-action="Index"
+       class="list-group-item list-group-item-action @(ViewBag.SelectedMenu=="Product" ? "active" : "")">Ürünler</a>
+
+    <a asp-area="Admin"
+       asp-controller="Role"
+       asp-action="Index"
+       class="list-group-item list-group-item-action @(ViewBag.SelectedMenu=="Role" ? "active" : "")">Roller</a>
+
+    <a asp-area="Admin"
+       asp-controller="Role"
+       asp-action="UserRoles"
+       class="list-group-item list-group-item-action @(ViewBag.SelectedMenu=="UserRoles" ? "active" : "")">Rol Atama</a>
+
+    <a asp-area="Admin"
+       asp-controller="User"
+       asp-action="Index"
+       class="list-group-item list-group-item-action @(ViewBag.SelectedMenu=="User" ? "active" : "")">Kullanıcılar</a>
+
+    <a asp-area="Admin"
+       asp-controller="Order"
+       asp-action="Index"
+       class="list-group-item list-group-item-action">Satışlar</a>
+
+    <a asp-area="Admin"
+       asp-controller="Category"
+       asp-action="Index"
+       class="list-group-item list-group-item-action">Ayarlar</a>
+    <hr />
+    <a asp-area=""
+       asp-controller="Account"
+       asp-action="Logout"
+       class="list-group-item list-group-item-action">Çıkış Yap</a>
+
+</div>

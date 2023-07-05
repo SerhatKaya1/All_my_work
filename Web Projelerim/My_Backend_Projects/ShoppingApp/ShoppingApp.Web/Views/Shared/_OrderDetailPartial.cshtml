@@ -1,0 +1,64 @@
+﻿@model OrderListDto
+
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-sm btn-primary" data-bs-toggle="modal" data-bs-target="#orderDetailModal_@Model.OrderId">
+    Detay Göster
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="orderDetailModal_@Model.OrderId" tabindex="-1" aria-labelledby="orderDetailModalLabel_@Model.OrderId" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header bg-warning">
+                <h1 class="modal-title fs-5" id="orderDetailModalLabel_@Model.OrderId">Sipariş Detayları</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row mb-4">
+                    <div class="col-6">
+                        Sipariş No:@Model.OrderNumber
+                    </div>
+                    <div class="col-3">
+                        Tarih: @Model.OrderDate.ToShortDateString()
+                    </div>
+                    <div class="col-3">
+                        Tutar: @($"{Model.TotalPrice():C0}")
+                    </div>
+                </div>
+                <table class="table table-sm table-bordered">
+                    <thead>
+                        <tr>
+                            <th width="15">Resim</th>
+                            <th>Ürün</th>
+                            <th>Fiyat</th>
+                            <th>Adet</th>
+                            <th>Tutar</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var orderListItem in Model.OrderListItems)
+                        {
+                            <tr>
+                                <td><img src="~/images/@orderListItem.ImageUrl" width="15" /></td>
+                                <td>@orderListItem.ProductName</td>
+                                <td>@($"{orderListItem.Price:C0}")</td>
+                                <td>@orderListItem.Quantity</td>
+                                @{
+                                    decimal? total = orderListItem.Price * orderListItem.Quantity;
+                                }
+                                <td>@($"{total:C0}")</td>
+                            </tr>
+                        }
+                        <tr>
+                            <td class="text-end" colspan="4">Toplam:</td>
+                            <td>@($"{Model.TotalPrice():C0}")</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+            </div>
+        </div>
+    </div>
+</div>

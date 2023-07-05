@@ -1,0 +1,30 @@
+Kütüphaneler veri tabanını oluşturmak için : 
+Students : Öğrenciler tablosu
+Books:Kitaplar tablosu
+Authors:Yazarlar tablosu
+Categories : Ktaegoriler tablosu
+RentalTables: KitapKiralama tablosu
+Publishers : Yyaınevleri tablosu
+Languages : Dil tablosu 
+Countries: ülke
+cities : şehirler
+towns : ilçeler 
+libraries : kütüphaneler 
+Languages :Diller
+tablolarından yararlandım.
+
+--> BİREÇOK İLİŞKİLER
+* kategoriler ve kitaplar tablosunda bir kategori birden fazla kitabın categetorisine uygun olabilir diye düşündüm.
+* kitaplar ile kütüphaneler tablosunda , bir kitap birden fazla kütüphanede olabilir diye düşündüm.
+* kitaplar ve yazarlar arasında : bir yazarın birden fazla kitabı olabilir diyerek ilşki kurdum.
+* Kitaplar ve kiralama tablosunda bir kitap birden fazla kez kiralama yapılabilir .
+* öğrenciler ile kiralama tablosunda bir öğrenci birden fazla kiralama yapabilir.
+* Languages tablosu ile bir ülkenin birden fazla resmi dili olabilir düşüncesi ile hareket ettim.
+
+--> ADRESS İLİŞKİLERİ TASARIMIM
+Öğrencilerin , yayınevlerinin ve kütüphanelerin adress bilgilerini tek bir tabloda turmak yerine 3 adet adress tablosu oluşturarak verileri sakladım . Farklı bilgilerin bu tablolarda olabilecği düşüncesi ile veri tutarlılığı açısında bu şekilde yapmanın daha sağlıklı olacağını düşündüm. ülkeler , şehirler ve ilçeler tablosu açtım ve bunlar 3 farklı adress tablolarıyla bir ülkenin birden fazla adresi ,bir şehirde birden fazla kütüphane olabilir ,bir şehrin birden fazla adresi olabilir dedim . bu ülkeler,şehirler,ilçeler tablosunu açtığım 3 adress alanlarının kullanacağı ortak bir havuz oluşturdum diyebilirim.
+
+
+
+--BİREBİR İLİŞKİ
+Kütüpheneler tablos ile kütüphane adres tablosunda birebir ilişki kurdum. Bir kütüphanenin 1 adresi olsun istedim.

@@ -1,0 +1,30 @@
+@model List<Yazar>
+@{
+    ViewData["Title"] = "Yazar Listesi";
+}
+
+<h1 class="display-6">Yazar Listesi</h1>
+<hr>
+<a asp-controller="Home" asp-action="YazarEkle" class="btn btn-outline-primary">Yeni Yazar</a>
+<hr>
+<table class="table table-sm table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Yazar Ad Soyad Adı</th>
+            <th>Doğum Yılı</th>
+            <th>Cinsiyet</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var y in Model)
+        {
+            <tr>
+                <td>@y.Id</td>
+                <td>@y.Ad</td>
+                <td>@y.DogumYili</td>
+                <td>@(y.Cinsiyet=='K' ? "Kadın" : "Erkek")</td>
+            </tr>
+        }
+    </tbody>
+</table>

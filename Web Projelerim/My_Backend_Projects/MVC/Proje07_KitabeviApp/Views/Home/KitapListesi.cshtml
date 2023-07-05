@@ -1,0 +1,17 @@
+@model List<Kitap>
+@{
+    ViewData["Title"] = "Kitap Listesi";
+}
+
+<h1 class="display-6">Kitap Listesi</h1>
+<hr>
+<a asp-controller="Home" asp-action="KitapEkle" class="btn btn-outline-primary">Yeni Kitap</a>
+<hr>
+<div class="container">
+    <div class="row">
+        @foreach (var kitap in Model)
+        {
+            <partial name="_Kitap" model="kitap" />
+        }
+    </div>
+</div>

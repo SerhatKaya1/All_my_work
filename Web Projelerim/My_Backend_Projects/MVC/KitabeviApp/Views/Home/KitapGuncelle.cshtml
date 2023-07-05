@@ -1,0 +1,79 @@
+@model KitapViewModel
+@{
+    ViewData["Title"] = "Kitap Güncelle";
+}
+
+<h1 class="display-6">Kitap Güncelle</h1>
+<hr>
+<form asp-controller="Home" asp-action="KitapGuncelle" method="post">
+    <input type="hidden" value="@Model.Kitap.Id" name="Kitap.Id">
+    <div class="row mb-2">
+        <div class="col-2">
+            <label class="form-label" asp-for="Kitap.Ad"></label>
+        </div>
+        <div class="col-4">
+            <input class="form-control" type="text" asp-for="Kitap.Ad">
+        </div>
+    </div>
+    <div class="row mb-2">
+        <div class="col-2">
+            <label class="form-label" asp-for="Kitap.BasimYili"></label>
+        </div>
+        <div class="col-4">
+            <input class="form-control" type="text" asp-for="Kitap.BasimYili">
+        </div>
+    </div>
+    <div class="row mb-2">
+        <div class="col-2">
+            <label class="form-label" asp-for="Kitap.SayfaSayisi"></label>
+        </div>
+        <div class="col-4">
+            <input class="form-control" type="text" asp-for="Kitap.SayfaSayisi">
+        </div>
+    </div>
+    <div class="row mb-2">
+        <div class="col-2">
+            <label class="form-label" asp-for="Kitap.Ozet"></label>
+        </div>
+        <div class="col-4">
+            <input class="form-control" type="text" asp-for="Kitap.Ozet">
+        </div>
+    </div>
+    <div class="row mb-2">
+        <div class="col-2">
+            <label class="form-label">Kategori</label>
+        </div>
+        <div class="col-4">
+            <select asp-for="Kitap.KategoriId" class="form-select" aria-label="Default select example">
+                <option selected>Kategori seçiniz</option>
+                @foreach (var kategori in Model.Kategoriler)
+                {
+                    <option value="@kategori.Id">@kategori.Ad</option>
+                }
+
+            </select>
+        </div>
+    </div>
+
+    <div class="row mb-2">
+        <div class="col-2">
+            <label class="form-label">Yazar</label>
+        </div>
+        <div class="col-4">
+            <select asp-for="Kitap.YazarId" class="form-select" aria-label="Default select example">
+                <option selected>Yazar seçiniz</option>
+                @foreach (var yazar in Model.Yazarlar)
+                {
+                    <option value="@yazar.Id">@yazar.Ad</option>
+                }
+
+            </select>
+        </div>
+    </div>
+
+    <div class="row mb-2">
+        <div class="col-4 offset-2">
+            <input class="btn btn-primary" type="submit" value="Güncelle">
+        </div>
+    </div>
+</form>

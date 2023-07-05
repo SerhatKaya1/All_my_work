@@ -1,0 +1,12 @@
+@model List<Yazar>
+<div class="px-2">
+    <h1 class="display-6 fs-3 text-primary fw-normal">Yazarlar</h1>
+</div>
+<div class="list-group">
+    @foreach (var y in Model)
+    {
+        <a asp-controller="Home" asp-action="YazaraGoreKitapListesi" asp-route-id=@y.Id asp-route-tur="yazar" class="list-group-item list-group-item-action @(ViewBag.SeciliYazar==y.Id && ViewBag.SeciliKategori==null ? "active" : "")">
+            @y.Ad
+        </a>
+    }
+</div>

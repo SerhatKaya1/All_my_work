@@ -1,0 +1,78 @@
+﻿@model List<ProductListDto>
+<hr />
+<div class="row">
+    <div class="col-4">
+        <a class="btn btn-outline-primary"
+           asp-area="Admin"
+           asp-controller="Product"
+           asp-action="Create">Yeni Ürün Ekle</a>
+    </div>
+    <div class="col-8">
+        @await Html.PartialAsync("_ProductSearch", new SearchQueryDto(){})
+    </div>
+</div>
+
+<hr />
+<table class="table table-responsive table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Resim</th>
+            <th>Adı</th>
+            <th>Fiyatı</th>
+            <th>Anasayfa</th>
+            <th>Onaylı</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Product.Id</td>
+                <td>
+                    <img src="/images/@item.Product.ImageUrl" width="20" />
+                </td>
+                <td>@item.Product.Name</td>
+                <td>@($"{item.Product.Price:C2}")</td>
+                <td>
+                    <form id="isHomeForm_@item.Product.Id"
+                      asp-area="Admin"
+                      asp-controller="Product"
+                      asp-action="UpdateIsHome"
+                      asp-route-id="@item.Product.Id">
+                        <input onchange="document.getElementById('isHomeForm_@item.Product.Id').submit();"
+                           type="checkbox"
+                           class="form-check-input"
+                           value="@item.Product.IsHome"
+                           @(item.Product.IsHome ? "checked" : "") />
+                    </form>
+                </td>
+                <td>
+                    <form id="isApprovedForm_@item.Product.Id"
+                      asp-area="Admin"
+                      asp-controller="Product"
+                      asp-action="UpdateIsApproved"
+                      asp-route-id="@item.Product.Id">
+                        <input onchange="document.getElementById('isApprovedForm_@item.Product.Id').submit();"
+                           type="checkbox"
+                           class="form-check-input"
+                           value="@item.Product.IsApproved"
+                           @(item.Product.IsApproved ? "checked" : "") />
+                    </form>
+                </td>
+                <td>
+
+                    <a class="btn btn-warning btn-sm"
+                   asp-area="Admin"
+                   asp-controller="Product"
+                   asp-action="Edit"
+                   asp-route-id=@item.Product.Id>Düzenle</a>
+
+                    @await Html.PartialAsync("_ProductDeletePartial", item.Product)
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

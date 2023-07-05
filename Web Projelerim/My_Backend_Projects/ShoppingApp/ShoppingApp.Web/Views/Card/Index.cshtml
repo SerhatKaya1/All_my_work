@@ -1,0 +1,111 @@
+﻿@model CardDto
+<h6 class="display-6">Sepet</h6>
+<hr />
+@if (Model.CardItems.Count == 0)
+{
+    <div class="row">
+        <div class="alert alert-warning">
+            Sepetinizde ürün bulunmamaktadır.
+        </div>
+    </div>
+}
+else
+{
+    <div class="row">
+        <div class="col-8">
+            <h6 class="text-danger display-6">Ürünler</h6>
+            <hr />
+            <table class="table table-sm">
+                <thead>
+                    <tr>
+                        <th>Resim</th>
+                        <th>Ürün</th>
+                        <th>Fiyat</th>
+                        <th>Adet</th>
+                        <th>Toplam</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var cardItem in Model.CardItems)
+                    {
+                        <tr>
+                            <td>
+                                <a 
+                                   asp-controller="Shop"
+                                   asp-action="ProductDetails"
+                                   asp-route-producturl=@cardItem.ProductUrl>
+                                    <img src="~/images/@cardItem.ImageUrl" width="20" />
+                                </a>
+                            </td>
+                            <td>
+                                <a class="text-decoration-none"
+                                   asp-controller="Shop"
+                                   asp-action="ProductDetails"
+                                   asp-route-producturl=@cardItem.ProductUrl>
+                                    @cardItem.ProductName</a>
+                            </td>
+                            <td>@($"{cardItem.ItemPrice:C0}")</td>
+                            <td>
+                                <form id="form_@cardItem.ProductId"
+                                      asp-controller="Card"
+                                      asp-action="ChangeQuantity"
+                                      method="post">
+                                    <input type="hidden" name="cardItemId" value="@cardItem.CardItemId" />
+                                      <input
+                                          type="number"
+                                          class="form-control d-inline-block"
+                                          name="quantity"
+                                          value="@cardItem.Quantity"
+                                          min="1"
+                                          max="10"
+                                          style="width:75px;"
+                                          onchange="document.getElementById('form_@cardItem.ProductId').submit();"
+                                          />
+                                </form>
+                            </td>
+                            @{
+                                decimal? total = cardItem.ItemPrice * cardItem.Quantity;
+                            }
+                            <td>@($"{total:C0}")</td>
+                            <td>
+                                <a 
+                                    asp-controller="Card"
+                                    asp-action="DeleteFromCard"
+                                    asp-route-id="@cardItem.CardItemId"
+                                    class="btn btn-close btn-sm"></a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        <div class="col-4">
+            <h6 class="text-danger display-6">Özet Bilgiler</h6>
+            <hr />
+            <table class="table table-sm">
+                <tbody>
+                    <tr>
+                        <th>Sepet Toplamı:</th>
+                        <td>@($"{Model.TotalPrice():C0}")</td>
+                    </tr>
+                    <tr>
+                        <th>Kargo:</th>
+                        <td>Ücretsiz</td>
+                    </tr>
+                    <tr>
+                        <th>Ödenecek Toplam Tutar:</th>
+                        <td>@($"{Model.TotalPrice():C0}")</td>
+                    </tr>
+                </tbody>
+            </table>
+            <div>
+                <a href="/" class="btn btn-success">Alışverişe Devam Et</a>
+                <a 
+                    asp-controller="Card"
+                    asp-action="Checkout"
+                    class="btn btn-primary">Ödeme Adımına Geç</a>
+            </div>
+        </div>
+    </div>
+}

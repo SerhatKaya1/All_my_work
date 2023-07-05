@@ -1,0 +1,56 @@
+﻿@using Newtonsoft.Json;
+@using ShoppingApp.Core;
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    @await RenderSectionAsync("Styles", false)
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-2 p-5">
+                @await Html.PartialAsync("_AdminSideBarPartial")
+            </div>
+            <div class="col-10 p-5">
+                <div class="row">
+                    <div class="col-6">
+                        <h3 class="text-danger">@ViewBag.Title</h3>
+                    </div>
+                    <div class="col-6 text-end">  
+                        <h3 class="text-primary fw-normal">
+                            <a class="text-decoration-none" asp-area="Admin" asp-controller="Home" asp-action="Index">Admin Panel</a>
+                        </h3>
+                    </div>
+                </div>
+                <div class="row">
+                    @if (TempData["Message"] != null)
+                    {
+                        var msg = JsonConvert.DeserializeObject<AlertMessage>(TempData["Message"] as String);
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="alert alert-@msg.AlertType">
+                                    <div>@msg.Title</div>
+                                    <div>@msg.Message</div>
+                                </div>
+                            </div>
+                        </div>
+
+                    }
+                    <div class="col">
+                        @RenderBody()
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.2/jquery.min.js" integrity="sha512-tWHlutFnuG0C6nQRlpvrEhE4QpkG1nn2MOUMWmUeRePl4e3Aki0VB6W1v3oLjFtd0hVOtRQ9PHpSfN6u6/QXkQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("Scripts", false)
+</body>
+</html>

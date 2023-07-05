@@ -1,0 +1,26 @@
+@model Kitap
+@{
+    ViewData["Title"] = "Detay";
+}
+<h1 class="display-6">@Model.Ad</h1>
+<div class="row">
+    <div class="col-3">
+        <div>Buraya resim gelecek</div>
+    </div>
+    <div class="col-9">
+        <div class="card">
+            <div class="card-header bg-warning">
+                @Model.Yazar.Ad
+            </div>
+            <div class="card-body">
+                <h6>ÖZET</h6>
+                <p>@Model.Ozet</p>
+            </div>
+            <div class="card-footer">
+                <p>Basım Yılı: @Model.BasimYili , Sayfa Sayısı: @Model.SayfaSayisi, Kategori: <span
+                        class="text-danger"><a asp-controller="Home" asp-action="KitapListesi"
+                            asp-route-id=@Model.KategoriId>@Model.Kategori.Ad</a></span></p>
+            </div>
+        </div>
+    </div>
+</div>

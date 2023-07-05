@@ -1,0 +1,1001 @@
+Tarih	Satýþ Temsilcisi	Adet	ÜrünAdý	Fiyat	Ýndirim	Net
+2.05.2017	Serdar Kýlýç	21	Buji Takýmý	43	0,07	839,79
+21.02.2017	Hadi Ýstanbullu	425	Trigger Seti	26	0,48	5746
+29.06.2017	Ramazan Coþkun	1	Debiyaj Seti	22	0	22
+22.04.2017	Sibel Demir	30	Fren Disk	59,99	0,04	1727,712
+1.03.2017	Metin Koçyiðit	34	Trigger Seti	26	0,13	769,08
+14.02.2017	Þemsettin Aksay	7	Rot Baþý	23	0	161
+16.04.2017	Ali Koç	31	Debiyaj Seti	22	0,15	579,7
+23.02.2017	Damla Diker	300	Rot Kolu	27,95	0,47	4444,05
+20.03.2017	Þehabettin Gündoðdu	225	Fren Balatasý	24,99	0,47	2980,0575
+26.05.2017	Hülya Toprak	8	Yað Filtresi	43,69	0	349,52
+2.02.2017	Sevil Çetinkaya	2	Rot Baþý	23	0	46
+14.01.2017	Soner Bereket	8	Viraj Lastiði	23,95	0	191,6
+25.01.2016	Hadi Ýstanbullu	45	Fren Disk	59,99	0,06	2537,577
+17.06.2016	Esat Çetin	16	Buji Takýmý	43	0,07	639,84
+4.02.2016	Orçun Doðan	475	Rot Kolu	27,95	0,45	7301,9375
+24.04.2016	Necmettin Yemiþ	47	Viraj Lastiði	23,95	0,02	1103,137
+27.06.2016	Necmettin Yemiþ	20	Ateþleme Bobini	25,95	0,05	493,05
+19.04.2016	Soner Bereket	28	Fren Balatasý	24,99	0,04	671,7312
+17.03.2016	Hadi Ýstanbullu	30	Silecek	19,99	0,15	509,745
+15.03.2016	Sýtký Iþýt	15	Günelik	15,95	0,02	234,465
+29.04.2016	Damla Diker	8	Fren Balatasý	24,99	0	199,92
+8.02.2016	Emrah Kýrýmsoy	48	Tekerlek	19,99	0,09	873,1632
+22.01.2016	Dilek Gürbüz	275	Trigger Seti	26	0,47	3789,5
+24.05.2016	Taylan Denizhan	30	Fren Balatasý	24,99	0,07	697,221
+27.03.2016	Ahmet Akgüneþ	4	Tekerlek	19,99	0	79,96
+1.01.2016	Emrah Kýrýmsoy	5	Fren Balatasý	24,99	0	124,95
+11.02.2016	Ahmet Yüce	100	Trigger Seti	26	0,39	1586
+14.01.2016	Ayan Öztürk	250	Rot Baþý	23	0,56	2530
+16.05.2016	Þemsettin Aksay	475	Ateþleme Bobini	25,95	0,54	5670,075
+6.05.2016	Hülya Toprak	4	Viraj Lastiði	23,95	0	95,8
+22.05.2016	Engin Özdemir	2	Viraj Lastiði	23,95	0	47,9
+6.01.2016	Hüseyin Anýlan	22	Yað Filtresi	43,69	0,07	893,8974
+14.04.2016	Ýbrahim Taha	24	Silecek	19,99	0,03	465,3672
+4.01.2016	Damla Diker	4	Silecek	19,99	0	79,96
+1.05.2016	Damla Diker	525	Far	100	0,54	24150
+11.06.2016	Kenan Arýbaþ	4	Viraj Lastiði	23,95	0	95,8
+4.02.2016	Orçun Doðan	75	Ateþleme Bobini	25,95	0,2	1557
+10.06.2016	Murat Mandýracý	41	Fren Disk	59,99	0,14	2115,2474
+30.04.2016	Engin Özdemir	4	Silecek	19,99	0	79,96
+15.05.2016	Önerbay Ertuðrul	45	Günelik	15,95	0,15	610,0875
+28.02.2016	Pýnar Girmen	36	Far	100	0,06	3384
+13.01.2016	Suat Çelik	8	Viraj Lastiði	23,95	0	191,6
+18.06.2016	Taylan Denizhan	50	Rot Kolu	27,95	0,33	936,325
+21.04.2016	Taner Yýlmaz	6	Fren Disk	59,99	0	359,94
+13.01.2016	Murat Mandýracý	2	Far	100	0	200
+14.05.2016	Ali Koç	4	Trigger Seti	26	0	104
+23.06.2016	Ýbrahim Taha	225	Fren Disk	59,99	0,42	7828,695
+12.02.2016	Þemsettin Aksay	7	Fren Balatasý	24,99	0	174,93
+24.05.2016	Burak Öztemel	39	Rot Kolu	27,95	0,12	959,244
+14.06.2016	Deniz Kite	17	Tekerlek	19,99	0,13	295,6521
+10.01.2016	Pýnar Girmen	275	Rot Kolu	27,95	0,53	3612,5375
+16.02.2016	Levent Koç	2	Tekerlek	19,99	0	39,98
+4.02.2016	Damla Diker	28	Silecek	19,99	0,14	481,3592
+3.04.2016	Deniz Kite	475	Ateþleme Bobini	25,95	0,59	5053,7625
+15.06.2016	Ahmet Yüce	3	Ateþleme Bobini	25,95	0	77,85
+20.06.2016	Özge Dinçer	350	Viraj Lastiði	23,95	0,46	4526,55
+2.01.2016	Emrah Kýrýmsoy	8	Viraj Lastiði	23,95	0	191,6
+1.04.2016	Burak Öztemel	7	Rot Kolu	27,95	0	195,65
+15.01.2016	Soner Bereket	475	Fren Balatasý	24,99	0,5	5935,125
+26.05.2016	Behice Keleþ	44	Rot Kolu	27,95	0,13	1069,926
+11.05.2016	Engin Özdemir	47	Silecek	19,99	0,02	920,7394
+7.04.2016	Soner Bereket	375	Debiyaj Seti	22	0,6	3300
+17.06.2016	Metin Koçyiðit	525	Trigger Seti	26	0,43	7780,5
+23.05.2016	Ýbrahim Taha	225	Silecek	19,99	0,63	1664,1675
+25.01.2016	Murat Mandýracý	2	Tekerlek	19,99	0	39,98
+14.03.2016	Ergun Kaya	500	Ateþleme Bobini	25,95	0,45	7136,25
+6.05.2016	Emrah Kýrýmsoy	150	Rot Baþý	23	0,2	2760
+2.03.2016	Hasan Coþkun	7	Debiyaj Seti	22	0	154
+29.04.2016	Burak Öztemel	300	Tekerlek	19,99	0,59	2458,77
+4.04.2016	Ergun Kaya	7	Debiyaj Seti	22	0	154
+16.01.2016	Taner Yýlmaz	16	Debiyaj Seti	22	0,09	320,32
+24.05.2016	Burak Öztemel	100	Trigger Seti	26	0,33	1742
+12.05.2016	Osman Þibik	31	Ateþleme Bobini	25,95	0,07	748,1385
+3.01.2016	Behice Keleþ	325	Viraj Lastiði	23,95	0,55	3502,6875
+20.04.2016	Sibel Demir	16	Ateþleme Bobini	25,95	0,07	386,136
+24.01.2016	Deniz Kite	16	Buji Takýmý	43	0,1	619,2
+18.01.2016	Ahmet Akgüneþ	500	Rot Baþý	23	0,54	5290
+6.06.2016	Ayça Kayaþ	525	Viraj Lastiði	23,95	0,65	4400,8125
+11.05.2016	Soner Bereket	425	Trigger Seti	26	0,61	4309,5
+9.03.2016	Murat Mandýracý	31	Rot Kolu	27,95	0,1	779,805
+27.05.2016	Azem Alptekin	200	Günelik	15,95	0,6	1276
+14.06.2016	Osman Þibik	1	Silecek	19,99	0	19,99
+7.04.2016	Osman Þibik	300	Rot Baþý	23	0,65	2415
+2.04.2016	Kerem Köker	16	Silecek	19,99	0,15	271,864
+11.04.2016	Ali Koç	22	Trigger Seti	26	0,08	526,24
+9.02.2016	Esat Çetin	1	Ateþleme Bobini	25,95	0	25,95
+5.05.2016	Kerem Köker	75	Rot Kolu	27,95	0,21	1656,0375
+28.03.2016	Ayan Öztürk	450	Tekerlek	19,99	0,63	3328,335
+7.06.2016	Levent Koç	375	Buji Takýmý	43	0,6	6450
+22.04.2016	Yasin Uygur	225	Fren Disk	59,99	0,55	6073,9875
+22.04.2016	Dilek Gürbüz	3	Trigger Seti	26	0	78
+28.06.2016	Önerbay Ertuðrul	9	Rot Baþý	23	0	207
+17.04.2016	Sevil Çetinkaya	7	Silecek	19,99	0	139,93
+25.01.2016	Damla Diker	47	Debiyaj Seti	22	0,03	1002,98
+17.03.2016	Deniz Kite	225	Buji Takýmý	43	0,48	5031
+29.04.2016	Soner Bereket	275	Tekerlek	19,99	0,64	1979,01
+25.02.2016	Taylan Denizhan	5	Viraj Lastiði	23,95	0	119,75
+17.05.2016	Serdar Kýlýç	1	Fren Balatasý	24,99	0	24,99
+5.05.2016	Ayça Kayaþ	47	Fren Disk	59,99	0,08	2593,9676
+30.06.2016	Ahmet Akgüneþ	45	Tekerlek	19,99	0,07	836,5815
+12.06.2016	Serdar Kýlýç	22	Buji Takýmý	43	0,08	870,32
+6.05.2016	Buket Erezcan	30	Günelik	15,95	0,1	430,65
+16.04.2016	Soner Bereket	2	Debiyaj Seti	22	0	44
+27.02.2016	Gülten Seha	3	Rot Kolu	27,95	0	83,85
+23.05.2016	Buket Erezcan	550	Yað Filtresi	43,69	0,44	13456,52
+26.02.2016	Gülten Seha	29	Günelik	15,95	0,08	425,546
+2.02.2016	Esat Çetin	275	Viraj Lastiði	23,95	0,49	3358,9875
+26.01.2016	Ýbrahim Taha	2	Viraj Lastiði	23,95	0	47,9
+5.05.2016	Dilek Gürbüz	8	Fren Disk	59,99	0	479,92
+5.06.2016	Koray Cengiz	10	Fren Balatasý	24,99	0,03	242,403
+31.03.2016	Hadi Ýstanbullu	425	Far	100	0,44	23800
+31.03.2016	Damla Diker	27	Trigger Seti	26	0,15	596,7
+26.01.2016	Ramazan Coþkun	9	Ateþleme Bobini	25,95	0	233,55
+28.05.2016	Ýbrahim Taha	75	Rot Baþý	23	0,18	1414,5
+22.04.2016	Hüseyin Anýlan	17	Rot Kolu	27,95	0,11	422,8835
+11.04.2016	Gülten Seha	525	Fren Balatasý	24,99	0,56	5772,69
+28.02.2016	Necmettin Yemiþ	19	Debiyaj Seti	22	0,01	413,82
+7.01.2016	Ahmet Akgüneþ	550	Far	100	0,47	29150
+15.02.2016	Serdar Kýlýç	4	Yað Filtresi	43,69	0	174,76
+2.05.2016	Ufuk Çaðlayan	2	Debiyaj Seti	22	0	44
+10.03.2016	Kenan Arýbaþ	9	Rot Kolu	27,95	0	251,55
+23.03.2016	Þehabettin Gündoðdu	425	Silecek	19,99	0,65	2973,5125
+3.03.2016	Azem Alptekin	35	Silecek	19,99	0,1	629,685
+2.04.2016	Ahmet Akgüneþ	200	Fren Balatasý	24,99	0,65	1749,3
+17.02.2016	Murat Mandýracý	2	Viraj Lastiði	23,95	0	47,9
+13.05.2016	Suat Çelik	225	Ateþleme Bobini	25,95	0,4	3503,25
+16.01.2016	Deniz Kite	41	Buji Takýmý	43	0,07	1639,59
+5.04.2016	Kerem Köker	35	Fren Balatasý	24,99	0,06	822,171
+15.02.2016	Levent Koç	525	Fren Balatasý	24,99	0,62	4985,505
+6.06.2016	Osman Þibik	1	Rot Baþý	23	0	23
+5.04.2016	Ayça Kayaþ	100	Far	100	0,21	7900
+21.03.2016	Koray Cengiz	5	Rot Baþý	23	0	115
+31.03.2016	Azem Alptekin	25	Günelik	15,95	0,15	338,9375
+25.06.2016	Hadi Ýstanbullu	47	Tekerlek	19,99	0,09	854,9723
+14.02.2016	Engin Özdemir	2	Tekerlek	19,99	0	39,98
+10.01.2016	Sibel Demir	49	Rot Kolu	27,95	0,09	1246,2905
+6.05.2016	Esat Çetin	325	Buji Takýmý	43	0,55	6288,75
+13.04.2016	Emrah Kýrýmsoy	47	Tekerlek	19,99	0,01	930,1347
+12.01.2016	Taylan Denizhan	1	Debiyaj Seti	22	0	22
+25.04.2016	Behice Keleþ	26	Rot Kolu	27,95	0,09	661,297
+22.06.2016	Hadi Ýstanbullu	575	Rot Baþý	23	0,52	6348
+26.06.2016	Hüseyin Anýlan	9	Silecek	19,99	0	179,91
+21.04.2016	Kerem Köker	1	Fren Disk	59,99	0	59,99
+19.06.2016	Osman Þibik	28	Günelik	15,95	0,06	419,804
+14.02.2016	Gülten Seha	7	Debiyaj Seti	22	0	154
+11.01.2016	Koray Cengiz	225	Ateþleme Bobini	25,95	0,58	2452,275
+5.04.2016	Azem Alptekin	5	Debiyaj Seti	22	0	110
+7.04.2016	Kenan Arýbaþ	35	Buji Takýmý	43	0,03	1459,85
+21.02.2016	Ramazan Coþkun	7	Yað Filtresi	43,69	0	305,83
+4.06.2016	Gülten Seha	300	Tekerlek	19,99	0,49	3058,47
+4.02.2016	Gülten Seha	29	Rot Baþý	23	0,14	573,62
+3.06.2016	Buket Erezcan	300	Rot Baþý	23	0,64	2484
+24.06.2016	Yasin Uygur	26	Silecek	19,99	0,14	446,9764
+9.05.2016	Burak Öztemel	3	Rot Kolu	27,95	0	83,85
+16.05.2016	Emrah Kýrýmsoy	8	Fren Disk	59,99	0	479,92
+26.01.2016	Hüseyin Anýlan	2	Rot Kolu	27,95	0	55,9
+10.04.2016	Taner Yýlmaz	9	Debiyaj Seti	22	0	198
+2.04.2016	Taner Yýlmaz	12	Buji Takýmý	43	0,14	443,76
+8.04.2016	Burak Öztemel	450	Tekerlek	19,99	0,48	4677,66
+5.02.2016	Ayça Kayaþ	350	Ateþleme Bobini	25,95	0,52	4359,6
+14.03.2016	Ýbrahim Taha	475	Fren Balatasý	24,99	0,54	5460,315
+4.06.2016	Þehabettin Gündoðdu	37	Yað Filtresi	43,69	0,08	1487,2076
+14.01.2016	Özge Dinçer	8	Tekerlek	19,99	0	159,92
+14.06.2016	Sýtký Iþýt	175	Fren Balatasý	24,99	0,37	2755,1475
+6.03.2016	Metin Koçyiðit	550	Rot Baþý	23	0,4	7590
+20.04.2016	Sýtký Iþýt	2	Tekerlek	19,99	0	39,98
+29.02.2016	Serdar Kýlýç	23	Buji Takýmý	43	0,03	959,33
+18.06.2016	Þehabettin Gündoðdu	575	Rot Kolu	27,95	0,48	8357,05
+12.04.2016	Taylan Denizhan	5	Buji Takýmý	43	0	215
+2.03.2016	Ufuk Çaðlayan	25	Rot Baþý	23	0,06	540,5
+23.04.2016	Þemsettin Aksay	10	Ateþleme Bobini	25,95	0,05	246,525
+21.03.2016	Sibel Demir	43	Yað Filtresi	43,69	0,04	1803,5232
+25.03.2016	Ahmet Akgüneþ	35	Ateþleme Bobini	25,95	0,05	862,8375
+11.01.2016	Engin Özdemir	19	Far	100	0,14	1634
+3.06.2016	Koray Cengiz	36	Ateþleme Bobini	25,95	0,03	906,174
+12.06.2016	Hülya Toprak	275	Buji Takýmý	43	0,65	4138,75
+27.03.2016	Hasan Coþkun	250	Tekerlek	19,99	0,5	2498,75
+5.03.2016	Özge Dinçer	300	Debiyaj Seti	22	0,6	2640
+16.04.2016	Taylan Denizhan	500	Rot Baþý	23	0,64	4140
+26.05.2016	Metin Koçyiðit	9	Silecek	19,99	0	179,91
+10.01.2016	Ufuk Çaðlayan	1	Ateþleme Bobini	25,95	0	25,95
+31.03.2016	Kubilay Taþtutar	44	Trigger Seti	26	0,15	972,4
+27.06.2016	Engin Özdemir	8	Silecek	19,99	0	159,92
+27.03.2016	Taner Yýlmaz	2	Trigger Seti	26	0	52
+26.05.2016	Dilek Gürbüz	27	Trigger Seti	26	0,13	610,74
+24.06.2016	Soner Bereket	16	Silecek	19,99	0,03	310,2448
+21.03.2016	Ýbrahim Taha	5	Yað Filtresi	43,69	0	218,45
+26.04.2016	Koray Cengiz	275	Günelik	15,95	0,59	1798,3625
+1.02.2016	Önerbay Ertuðrul	3	Debiyaj Seti	22	0	66
+8.05.2016	Deniz Kite	21	Rot Kolu	27,95	0,11	522,3855
+10.04.2016	Gülten Seha	475	Rot Kolu	27,95	0,57	5708,7875
+14.03.2016	Hasan Coþkun	8	Günelik	15,95	0	127,6
+5.02.2016	Ayan Öztürk	6	Buji Takýmý	43	0	258
+7.06.2016	Ayça Kayaþ	400	Debiyaj Seti	22	0,57	3784
+6.04.2016	Taylan Denizhan	25	Silecek	19,99	0,1	449,775
+9.02.2016	Orçun Doðan	2	Ateþleme Bobini	25,95	0	51,9
+27.06.2016	Azem Alptekin	9	Silecek	19,99	0	179,91
+11.04.2016	Damla Diker	6	Ateþleme Bobini	25,95	0	155,7
+4.03.2016	Behice Keleþ	26	Rot Kolu	27,95	0,14	624,962
+30.01.2016	Hasan Coþkun	23	Fren Balatasý	24,99	0,09	523,0407
+14.01.2016	Sýtký Iþýt	600	Rot Baþý	23	0,51	6762
+3.06.2016	Önerbay Ertuðrul	575	Rot Baþý	23	0,49	6744,75
+22.04.2016	Osman Þibik	47	Buji Takýmý	43	0,07	1879,53
+22.01.2016	Damla Diker	1	Günelik	15,95	0	15,95
+17.03.2016	Kubilay Taþtutar	37	Fren Balatasý	24,99	0,01	915,3837
+14.04.2016	Ahmet Yüce	600	Trigger Seti	26	0,51	7644
+22.05.2016	Gülten Seha	325	Günelik	15,95	0,5	2591,875
+27.04.2016	Pýnar Girmen	3	Yað Filtresi	43,69	0	131,07
+8.03.2016	Birol Bilgili	4	Ateþleme Bobini	25,95	0	103,8
+18.02.2016	Orçun Doðan	2	Buji Takýmý	43	0	86
+12.01.2016	Behice Keleþ	575	Rot Baþý	23	0,65	4628,75
+13.02.2016	Esat Çetin	300	Trigger Seti	26	0,56	3432
+21.03.2016	Suat Çelik	33	Buji Takýmý	43	0,03	1376,43
+8.05.2016	Osman Þibik	22	Trigger Seti	26	0,05	543,4
+8.01.2016	Azem Alptekin	400	Rot Baþý	23	0,64	3312
+12.01.2016	Orçun Doðan	2	Yað Filtresi	43,69	0	87,38
+23.05.2016	Sevil Çetinkaya	33	Günelik	15,95	0,1	473,715
+5.03.2016	Hasan Coþkun	10	Rot Baþý	23	0,02	225,4
+8.04.2016	Ali Koç	225	Viraj Lastiði	23,95	0,48	2802,15
+31.01.2016	Ramazan Coþkun	4	Tekerlek	19,99	0	79,96
+20.04.2016	Taylan Denizhan	5	Yað Filtresi	43,69	0	218,45
+12.03.2016	Esat Çetin	20	Tekerlek	19,99	0,15	339,83
+9.03.2016	Ayça Kayaþ	475	Silecek	19,99	0,4	5697,15
+27.05.2016	Damla Diker	9	Rot Baþý	23	0	207
+15.02.2016	Kenan Arýbaþ	28	Tekerlek	19,99	0,15	475,762
+10.06.2016	Hasan Coþkun	400	Fren Disk	59,99	0,45	13197,8
+5.03.2016	Osman Þibik	2	Yað Filtresi	43,69	0	87,38
+1.02.2016	Emrah Kýrýmsoy	9	Silecek	19,99	0	179,91
+30.06.2016	Esat Çetin	28	Fren Disk	59,99	0,03	1629,3284
+6.05.2016	Behice Keleþ	40	Günelik	15,95	0,11	567,82
+3.01.2016	Ayan Öztürk	21	Günelik	15,95	0,09	304,8045
+21.05.2016	Azem Alptekin	8	Rot Baþý	23	0	184
+27.05.2016	Buket Erezcan	1	Yað Filtresi	43,69	0	43,69
+24.04.2016	Osman Þibik	20	Buji Takýmý	43	0,01	851,4
+10.03.2016	Ahmet Akgüneþ	44	Rot Baþý	23	0,15	860,2
+25.04.2016	Burak Öztemel	6	Fren Balatasý	24,99	0	149,94
+2.06.2016	Sibel Demir	48	Far	100	0,14	4128
+27.06.2016	Gülten Seha	7	Silecek	19,99	0	139,93
+1.05.2016	Ýbrahim Taha	100	Yað Filtresi	43,69	0,37	2752,47
+30.01.2016	Ayça Kayaþ	4	Günelik	15,95	0	63,8
+26.03.2016	Metin Koçyiðit	5	Tekerlek	19,99	0	99,95
+5.03.2016	Ahmet Akgüneþ	7	Fren Balatasý	24,99	0	174,93
+23.06.2016	Hadi Ýstanbullu	20	Fren Balatasý	24,99	0,1	449,82
+20.02.2016	Hüseyin Anýlan	46	Buji Takýmý	43	0,14	1701,08
+2.04.2016	Ramazan Coþkun	4	Trigger Seti	26	0	104
+25.04.2016	Ali Koç	200	Debiyaj Seti	22	0,49	2244
+23.02.2016	Azem Alptekin	400	Far	100	0,63	14800
+7.03.2016	Ali Koç	31	Yað Filtresi	43,69	0,01	1340,8461
+2.02.2016	Kubilay Taþtutar	400	Rot Baþý	23	0,44	5152
+16.06.2016	Buket Erezcan	2	Far	100	0	200
+29.02.2016	Taner Yýlmaz	4	Fren Balatasý	24,99	0	99,96
+10.06.2016	Hadi Ýstanbullu	31	Ateþleme Bobini	25,95	0,09	732,0495
+20.04.2016	Murat Mandýracý	45	Rot Baþý	23	0,04	993,6
+20.05.2016	Esat Çetin	425	Fren Disk	59,99	0,63	9433,4275
+4.06.2016	Þemsettin Aksay	250	Yað Filtresi	43,69	0,55	4915,125
+22.06.2016	Kenan Arýbaþ	6	Yað Filtresi	43,69	0	262,14
+13.04.2016	Ergun Kaya	75	Far	100	0,42	4350
+25.04.2016	Ýbrahim Taha	10	Rot Baþý	23	0,01	227,7
+28.06.2016	Metin Koçyiðit	44	Far	100	0,13	3828
+3.03.2016	Muhammet Tek	525	Tekerlek	19,99	0,59	4302,8475
+25.01.2016	Ergun Kaya	33	Ateþleme Bobini	25,95	0,12	753,588
+20.01.2016	Gülten Seha	33	Günelik	15,95	0,05	500,0325
+8.05.2016	Orçun Doðan	8	Günelik	15,95	0	127,6
+5.04.2016	Hadi Ýstanbullu	3	Tekerlek	19,99	0	59,97
+28.04.2016	Kerem Köker	75	Rot Kolu	27,95	0,22	1635,075
+17.02.2016	Özge Dinçer	42	Trigger Seti	26	0,09	993,72
+20.05.2016	Damla Diker	31	Rot Kolu	27,95	0,13	753,8115
+31.03.2016	Koray Cengiz	36	Yað Filtresi	43,69	0,1	1415,556
+22.03.2016	Taner Yýlmaz	28	Tekerlek	19,99	0,05	531,734
+3.04.2016	Esat Çetin	17	Fren Disk	59,99	0,08	938,2436
+8.05.2016	Ayça Kayaþ	27	Rot Kolu	27,95	0,07	701,8245
+8.03.2016	Taylan Denizhan	7	Fren Disk	59,99	0	419,93
+13.02.2016	Özge Dinçer	21	Ateþleme Bobini	25,95	0,06	512,253
+17.01.2016	Azem Alptekin	125	Silecek	19,99	0,31	1724,1375
+20.01.2016	Burak Öztemel	150	Yað Filtresi	43,69	0,3	4587,45
+23.03.2016	Pýnar Girmen	4	Debiyaj Seti	22	0	88
+1.04.2016	Þemsettin Aksay	3	Ateþleme Bobini	25,95	0	77,85
+11.03.2016	Ahmet Yüce	19	Tekerlek	19,99	0,13	330,4347
+13.06.2016	Necmettin Yemiþ	6	Rot Baþý	23	0	138
+19.05.2016	Sýtký Iþýt	16	Ateþleme Bobini	25,95	0,11	369,528
+11.02.2016	Sýtký Iþýt	575	Silecek	19,99	0,65	4022,9875
+24.03.2016	Serdar Kýlýç	550	Fren Disk	59,99	0,42	19136,81
+17.03.2016	Yasin Uygur	8	Far	100	0	800
+14.04.2016	Yasin Uygur	5	Far	100	0	500
+4.01.2016	Burak Öztemel	10	Rot Kolu	27,95	0,04	268,32
+1.02.2016	Soner Bereket	9	Debiyaj Seti	22	0	198
+13.02.2016	Pýnar Girmen	6	Yað Filtresi	43,69	0	262,14
+30.03.2016	Sibel Demir	26	Yað Filtresi	43,69	0,02	1113,2212
+13.03.2016	Osman Þibik	41	Buji Takýmý	43	0,11	1569,07
+11.03.2016	Ramazan Coþkun	450	Far	100	0,52	21600
+31.03.2016	Ufuk Çaðlayan	10	Debiyaj Seti	22	0,08	202,4
+7.05.2016	Özge Dinçer	425	Günelik	15,95	0,49	3457,1625
+3.01.2016	Özge Dinçer	100	Buji Takýmý	43	0,43	2451
+10.01.2016	Hadi Ýstanbullu	125	Trigger Seti	26	0,42	1885
+2.05.2016	Sevil Çetinkaya	75	Rot Kolu	27,95	0,39	1278,7125
+3.04.2016	Kerem Köker	225	Silecek	19,99	0,52	2158,92
+12.01.2016	Damla Diker	29	Viraj Lastiði	23,95	0,12	611,204
+4.01.2016	Gülten Seha	350	Buji Takýmý	43	0,51	7374,5
+2.04.2016	Gülten Seha	4	Rot Baþý	23	0	92
+4.04.2016	Sevil Çetinkaya	9	Rot Kolu	27,95	0	251,55
+18.05.2016	Taner Yýlmaz	5	Rot Baþý	23	0	115
+18.06.2016	Koray Cengiz	475	Rot Kolu	27,95	0,54	6107,075
+8.04.2016	Burak Öztemel	500	Trigger Seti	26	0,49	6630
+21.03.2016	Osman Þibik	3	Buji Takýmý	43	0	129
+27.02.2016	Hüseyin Anýlan	32	Buji Takýmý	43	0,08	1265,92
+8.02.2016	Þehabettin Gündoðdu	38	Rot Kolu	27,95	0,04	1019,616
+26.03.2016	Serdar Kýlýç	42	Far	100	0,09	3822
+24.06.2016	Serdar Kýlýç	34	Silecek	19,99	0,03	659,2702
+19.03.2016	Þemsettin Aksay	30	Günelik	15,95	0,07	445,005
+25.04.2016	Murat Mandýracý	225	Debiyaj Seti	22	0,61	1930,5
+21.05.2016	Damla Diker	4	Günelik	15,95	0	63,8
+31.01.2016	Birol Bilgili	9	Günelik	15,95	0	143,55
+5.05.2016	Buket Erezcan	5	Yað Filtresi	43,69	0	218,45
+10.01.2016	Özge Dinçer	8	Rot Kolu	27,95	0	223,6
+29.06.2016	Önerbay Ertuðrul	25	Silecek	19,99	0,13	434,7825
+24.06.2016	Dilek Gürbüz	30	Tekerlek	19,99	0,15	509,745
+13.05.2016	Metin Koçyiðit	2	Far	100	0	200
+10.01.2016	Önerbay Ertuðrul	13	Ateþleme Bobini	25,95	0,02	330,603
+13.04.2016	Damla Diker	11	Ateþleme Bobini	25,95	0,09	259,7595
+9.06.2016	Kubilay Taþtutar	450	Fren Disk	59,99	0,61	10528,245
+12.04.2016	Muhammet Tek	18	Günelik	15,95	0,05	272,745
+30.03.2016	Birol Bilgili	17	Silecek	19,99	0,07	316,0419
+5.03.2016	Buket Erezcan	37	Silecek	19,99	0,04	710,0448
+24.06.2016	Behice Keleþ	400	Fren Disk	59,99	0,46	12957,84
+19.05.2016	Behice Keleþ	6	Trigger Seti	26	0	156
+1.01.2016	Özge Dinçer	5	Trigger Seti	26	0	130
+24.02.2016	Taylan Denizhan	9	Fren Disk	59,99	0	539,91
+14.03.2016	Buket Erezcan	75	Trigger Seti	26	0,26	1443
+10.04.2016	Suat Çelik	18	Silecek	19,99	0,13	313,0434
+28.05.2016	Taner Yýlmaz	46	Far	100	0,09	4186
+2.06.2016	Kenan Arýbaþ	75	Fren Disk	59,99	0,19	3644,3925
+17.05.2016	Ýbrahim Taha	6	Far	100	0	600
+14.06.2016	Kerem Köker	300	Ateþleme Bobini	25,95	0,64	2802,6
+24.06.2016	Orçun Doðan	18	Rot Kolu	27,95	0,02	493,038
+9.01.2016	Hasan Coþkun	48	Buji Takýmý	43	0,07	1919,52
+6.02.2016	Damla Diker	17	Buji Takýmý	43	0,06	687,14
+22.04.2016	Hadi Ýstanbullu	36	Günelik	15,95	0,06	539,748
+14.02.2016	Þemsettin Aksay	16	Günelik	15,95	0,1	229,68
+26.01.2016	Ali Koç	500	Tekerlek	19,99	0,48	5197,4
+6.04.2016	Özge Dinçer	3	Fren Balatasý	24,99	0	74,97
+10.05.2016	Behice Keleþ	27	Fren Disk	59,99	0,08	1490,1516
+12.04.2016	Burak Öztemel	300	Fren Disk	59,99	0,64	6478,92
+7.04.2016	Hasan Coþkun	525	Tekerlek	19,99	0,51	5142,4275
+29.02.2016	Buket Erezcan	9	Fren Disk	59,99	0	539,91
+11.06.2016	Yasin Uygur	475	Tekerlek	19,99	0,42	5507,245
+16.06.2016	Serdar Kýlýç	49	Debiyaj Seti	22	0,03	1045,66
+18.01.2016	Levent Koç	2	Fren Balatasý	24,99	0	49,98
+17.05.2016	Deniz Kite	475	Far	100	0,45	26125
+20.03.2016	Birol Bilgili	5	Debiyaj Seti	22	0	110
+22.03.2016	Ayça Kayaþ	50	Rot Kolu	27,95	0,5	698,75
+17.04.2016	Hülya Toprak	5	Tekerlek	19,99	0	99,95
+19.02.2016	Özge Dinçer	350	Fren Disk	59,99	0,44	11758,04
+30.06.2016	Taylan Denizhan	3	Far	100	0	300
+20.02.2016	Emrah Kýrýmsoy	7	Fren Balatasý	24,99	0	174,93
+10.06.2016	Özge Dinçer	40	Fren Disk	59,99	0,13	2087,652
+2.05.2016	Soner Bereket	25	Fren Balatasý	24,99	0,15	531,0375
+30.01.2016	Orçun Doðan	2	Viraj Lastiði	23,95	0	47,9
+17.05.2016	Kubilay Taþtutar	3	Far	100	0	300
+14.01.2016	Hüseyin Anýlan	41	Debiyaj Seti	22	0,15	766,7
+22.01.2016	Osman Þibik	4	Buji Takýmý	43	0	172
+1.05.2016	Burak Öztemel	7	Günelik	15,95	0	111,65
+16.02.2016	Serdar Kýlýç	46	Fren Balatasý	24,99	0,1	1034,586
+27.04.2016	Damla Diker	200	Fren Disk	59,99	0,65	4199,3
+19.04.2016	Sevil Çetinkaya	6	Trigger Seti	26	0	156
+18.04.2016	Þemsettin Aksay	4	Trigger Seti	26	0	104
+29.04.2016	Esat Çetin	550	Rot Baþý	23	0,41	7463,5
+12.04.2016	Önerbay Ertuðrul	325	Tekerlek	19,99	0,46	3508,245
+4.05.2016	Azem Alptekin	21	Fren Balatasý	24,99	0,12	461,8152
+25.06.2016	Yasin Uygur	25	Yað Filtresi	43,69	0,03	1059,4825
+12.06.2016	Taner Yýlmaz	425	Debiyaj Seti	22	0,44	5236
+20.05.2016	Sevil Çetinkaya	325	Tekerlek	19,99	0,47	3443,2775
+2.05.2016	Dilek Gürbüz	18	Tekerlek	19,99	0,07	334,6326
+27.02.2016	Osman Þibik	525	Tekerlek	19,99	0,61	4092,9525
+25.05.2016	Pýnar Girmen	22	Trigger Seti	26	0,04	549,12
+15.05.2016	Emrah Kýrýmsoy	550	Viraj Lastiði	23,95	0,63	4873,825
+12.06.2016	Murat Mandýracý	5	Yað Filtresi	43,69	0	218,45
+18.04.2016	Birol Bilgili	7	Debiyaj Seti	22	0	154
+24.04.2016	Önerbay Ertuðrul	550	Debiyaj Seti	22	0,64	4356
+5.02.2016	Suat Çelik	8	Viraj Lastiði	23,95	0	191,6
+17.02.2016	Kerem Köker	9	Silecek	19,99	0	179,91
+23.06.2016	Murat Mandýracý	29	Silecek	19,99	0,07	539,1303
+16.05.2016	Azem Alptekin	225	Silecek	19,99	0,5	2248,875
+30.06.2016	Ahmet Akgüneþ	3	Silecek	19,99	0	59,97
+29.06.2016	Ramazan Coþkun	25	Silecek	19,99	0,13	434,7825
+24.05.2016	Ýbrahim Taha	15	Silecek	19,99	0,04	287,856
+8.03.2016	Buket Erezcan	1	Günelik	15,95	0	15,95
+14.01.2016	Sibel Demir	35	Debiyaj Seti	22	0,12	677,6
+23.01.2016	Orçun Doðan	175	Yað Filtresi	43,69	0,22	5963,685
+9.03.2016	Ramazan Coþkun	39	Ateþleme Bobini	25,95	0,03	981,6885
+11.04.2016	Ayça Kayaþ	300	Far	100	0,45	16500
+29.06.2016	Hüseyin Anýlan	7	Buji Takýmý	43	0	301
+4.03.2016	Esat Çetin	35	Fren Disk	59,99	0,04	2015,664
+8.02.2016	Sýtký Iþýt	16	Ateþleme Bobini	25,95	0,04	398,592
+9.06.2016	Deniz Kite	100	Far	100	0,16	8400
+1.06.2016	Suat Çelik	2	Yað Filtresi	43,69	0	87,38
+8.04.2016	Yasin Uygur	300	Günelik	15,95	0,55	2153,25
+28.06.2016	Özge Dinçer	3	Rot Baþý	23	0	69
+5.06.2016	Serdar Kýlýç	27	Buji Takýmý	43	0,11	1033,29
+3.01.2016	Ýbrahim Taha	500	Yað Filtresi	43,69	0,56	9611,8
+15.01.2016	Hüseyin Anýlan	9	Günelik	15,95	0	143,55
+4.06.2016	Necmettin Yemiþ	175	Rot Baþý	23	0,17	3340,75
+20.04.2016	Necmettin Yemiþ	250	Ateþleme Bobini	25,95	0,59	2659,875
+22.06.2016	Koray Cengiz	11	Far	100	0,02	1078
+24.03.2016	Damla Diker	450	Yað Filtresi	43,69	0,56	8650,62
+24.06.2016	Osman Þibik	17	Rot Kolu	27,95	0,14	408,629
+2.05.2016	Ahmet Akgüneþ	6	Yað Filtresi	43,69	0	262,14
+17.02.2016	Ali Koç	4	Rot Baþý	23	0	92
+2.04.2016	Hüseyin Anýlan	30	Rot Kolu	27,95	0,14	721,11
+24.06.2016	Murat Mandýracý	325	Far	100	0,56	14300
+9.01.2016	Levent Koç	4	Trigger Seti	26	0	104
+15.06.2016	Þehabettin Gündoðdu	27	Trigger Seti	26	0,06	659,88
+20.04.2016	Özge Dinçer	3	Fren Balatasý	24,99	0	74,97
+5.06.2016	Kenan Arýbaþ	6	Rot Baþý	23	0	138
+24.06.2016	Hadi Ýstanbullu	175	Tekerlek	19,99	0,22	2728,635
+7.05.2016	Sibel Demir	29	Günelik	15,95	0,06	434,797
+5.03.2016	Soner Bereket	40	Tekerlek	19,99	0,01	791,604
+5.04.2016	Þemsettin Aksay	8	Günelik	15,95	0	127,6
+30.06.2016	Kerem Köker	275	Yað Filtresi	43,69	0,54	5526,785
+6.03.2016	Burak Öztemel	75	Silecek	19,99	0,38	929,535
+27.02.2016	Taylan Denizhan	2	Fren Disk	59,99	0	119,98
+22.06.2016	Osman Þibik	225	Yað Filtresi	43,69	0,58	4128,705
+23.01.2016	Özge Dinçer	3	Far	100	0	300
+24.05.2016	Hülya Toprak	300	Rot Kolu	27,95	0,63	3102,45
+8.04.2016	Ali Koç	275	Rot Baþý	23	0,61	2466,75
+2.03.2016	Dilek Gürbüz	15	Trigger Seti	26	0,06	366,6
+6.06.2016	Orçun Doðan	225	Rot Kolu	27,95	0,41	3710,3625
+22.06.2016	Hülya Toprak	7	Rot Kolu	27,95	0	195,65
+13.04.2016	Sýtký Iþýt	2	Günelik	15,95	0	31,9
+24.01.2016	Engin Özdemir	2	Günelik	15,95	0	31,9
+9.04.2016	Necmettin Yemiþ	41	Buji Takýmý	43	0,06	1657,22
+26.05.2016	Yasin Uygur	8	Tekerlek	19,99	0	159,92
+12.04.2016	Orçun Doðan	275	Viraj Lastiði	23,95	0,41	3885,8875
+16.03.2016	Ali Koç	350	Viraj Lastiði	23,95	0,45	4610,375
+19.04.2016	Ayan Öztürk	175	Rot Kolu	27,95	0,26	3619,525
+29.06.2016	Suat Çelik	5	Rot Kolu	27,95	0	139,75
+27.05.2016	Emrah Kýrýmsoy	5	Ateþleme Bobini	25,95	0	129,75
+15.03.2016	Ergun Kaya	4	Günelik	15,95	0	63,8
+29.01.2016	Pýnar Girmen	1	Silecek	19,99	0	19,99
+2.05.2016	Þemsettin Aksay	45	Buji Takýmý	43	0,03	1876,95
+7.01.2016	Esat Çetin	100	Fren Disk	59,99	0,17	4979,17
+5.06.2016	Damla Diker	150	Rot Baþý	23	0,35	2242,5
+26.03.2016	Osman Þibik	16	Viraj Lastiði	23,95	0,09	348,712
+17.05.2016	Orçun Doðan	550	Far	100	0,43	31350
+17.05.2016	Serdar Kýlýç	13	Tekerlek	19,99	0,09	236,4817
+17.06.2016	Ýbrahim Taha	8	Günelik	15,95	0	127,6
+7.01.2016	Sibel Demir	2	Rot Baþý	23	0	46
+7.06.2016	Koray Cengiz	46	Yað Filtresi	43,69	0,03	1949,4478
+15.06.2016	Dilek Gürbüz	175	Fren Balatasý	24,99	0,31	3017,5425
+2.02.2016	Ramazan Coþkun	39	Rot Kolu	27,95	0,11	970,1445
+29.01.2016	Emrah Kýrýmsoy	7	Rot Baþý	23	0	161
+14.03.2016	Ergun Kaya	18	Debiyaj Seti	22	0,05	376,2
+4.01.2016	Suat Çelik	4	Fren Balatasý	24,99	0	99,96
+12.05.2016	Önerbay Ertuðrul	2	Viraj Lastiði	23,95	0	47,9
+16.04.2016	Damla Diker	33	Far	100	0,1	2970
+3.06.2016	Dilek Gürbüz	5	Viraj Lastiði	23,95	0	119,75
+22.04.2016	Hüseyin Anýlan	49	Günelik	15,95	0,03	758,1035
+8.02.2016	Necmettin Yemiþ	13	Fren Balatasý	24,99	0,01	321,6213
+1.01.2016	Kerem Köker	1	Fren Disk	59,99	0	59,99
+8.05.2016	Þehabettin Gündoðdu	42	Buji Takýmý	43	0,09	1643,46
+16.04.2016	Metin Koçyiðit	475	Rot Baþý	23	0,6	4370
+19.03.2016	Orçun Doðan	32	Trigger Seti	26	0,09	757,12
+2.04.2016	Pýnar Girmen	8	Viraj Lastiði	23,95	0	191,6
+19.03.2016	Levent Koç	225	Rot Kolu	27,95	0,64	2263,95
+5.02.2016	Ayça Kayaþ	42	Debiyaj Seti	22	0,06	868,56
+25.03.2016	Suat Çelik	15	Debiyaj Seti	22	0,03	320,1
+9.02.2016	Buket Erezcan	5	Debiyaj Seti	22	0	110
+24.05.2016	Sibel Demir	44	Debiyaj Seti	22	0,04	929,28
+27.01.2016	Sýtký Iþýt	4	Rot Baþý	23	0	92
+31.01.2016	Ergun Kaya	500	Fren Disk	59,99	0,49	15297,45
+23.05.2016	Metin Koçyiðit	21	Rot Kolu	27,95	0,14	504,777
+5.06.2016	Gülten Seha	250	Viraj Lastiði	23,95	0,52	2874
+29.02.2016	Kerem Köker	3	Rot Baþý	23	0	69
+7.05.2016	Deniz Kite	250	Buji Takýmý	43	0,64	3870
+17.03.2016	Suat Çelik	1	Rot Kolu	27,95	0	27,95
+5.01.2016	Damla Diker	4	Rot Kolu	27,95	0	111,8
+4.05.2016	Sibel Demir	5	Rot Baþý	23	0	115
+1.01.2016	Buket Erezcan	6	Rot Kolu	27,95	0	167,7
+8.05.2016	Ahmet Akgüneþ	125	Far	100	0,28	9000
+24.06.2016	Emrah Kýrýmsoy	4	Yað Filtresi	43,69	0	174,76
+15.01.2016	Deniz Kite	46	Tekerlek	19,99	0,12	809,1952
+5.02.2016	Hüseyin Anýlan	2	Trigger Seti	26	0	52
+20.02.2016	Hülya Toprak	450	Günelik	15,95	0,63	2655,675
+20.04.2016	Ayan Öztürk	43	Tekerlek	19,99	0,06	807,9958
+15.01.2016	Yasin Uygur	550	Trigger Seti	26	0,4	8580
+22.04.2016	Behice Keleþ	375	Far	100	0,57	16125
+24.05.2016	Osman Þibik	30	Fren Balatasý	24,99	0,1	674,73
+17.01.2016	Dilek Gürbüz	9	Fren Balatasý	24,99	0	224,91
+1.02.2016	Emrah Kýrýmsoy	10	Debiyaj Seti	22	0,14	189,2
+16.01.2016	Engin Özdemir	7	Fren Balatasý	24,99	0	174,93
+11.04.2016	Taner Yýlmaz	6	Viraj Lastiði	23,95	0	143,7
+14.04.2016	Ýbrahim Taha	400	Buji Takýmý	43	0,42	9976
+9.03.2016	Burak Öztemel	33	Fren Balatasý	24,99	0,13	717,4629
+22.05.2016	Engin Özdemir	43	Silecek	19,99	0,12	756,4216
+10.03.2016	Hadi Ýstanbullu	49	Günelik	15,95	0,06	734,657
+12.02.2016	Sevil Çetinkaya	33	Ateþleme Bobini	25,95	0,14	736,461
+13.06.2016	Þemsettin Aksay	20	Yað Filtresi	43,69	0,07	812,634
+11.01.2016	Levent Koç	75	Viraj Lastiði	23,95	0,46	969,975
+16.02.2016	Damla Diker	33	Debiyaj Seti	22	0,08	667,92
+28.05.2016	Levent Koç	28	Tekerlek	19,99	0,03	542,9284
+10.05.2016	Hadi Ýstanbullu	8	Debiyaj Seti	22	0	176
+7.02.2016	Hülya Toprak	14	Fren Disk	59,99	0,08	772,6712
+1.05.2016	Emrah Kýrýmsoy	7	Ateþleme Bobini	25,95	0	181,65
+3.06.2016	Hülya Toprak	37	Tekerlek	19,99	0,06	695,2522
+15.05.2016	Birol Bilgili	26	Rot Baþý	23	0,13	520,26
+4.04.2016	Ahmet Yüce	5	Viraj Lastiði	23,95	0	119,75
+16.06.2016	Murat Mandýracý	8	Far	100	0	800
+28.04.2016	Ergun Kaya	450	Fren Balatasý	24,99	0,56	4948,02
+22.02.2016	Gülten Seha	19	Rot Baþý	23	0,01	432,63
+13.01.2016	Soner Bereket	425	Trigger Seti	26	0,47	5856,5
+4.04.2016	Þehabettin Gündoðdu	45	Viraj Lastiði	23,95	0,05	1023,8625
+26.05.2016	Sevil Çetinkaya	475	Debiyaj Seti	22	0,52	5016
+2.05.2016	Soner Bereket	31	Günelik	15,95	0,03	479,6165
+27.04.2016	Ayça Kayaþ	75	Far	100	0,5	3750
+25.04.2016	Murat Mandýracý	9	Viraj Lastiði	23,95	0	215,55
+4.03.2016	Koray Cengiz	3	Tekerlek	19,99	0	59,97
+15.03.2016	Þehabettin Gündoðdu	375	Fren Balatasý	24,99	0,45	5154,1875
+25.04.2016	Murat Mandýracý	2	Rot Baþý	23	0	46
+23.05.2016	Taner Yýlmaz	8	Rot Baþý	23	0	184
+21.01.2016	Ahmet Yüce	450	Ateþleme Bobini	25,95	0,63	4320,675
+12.06.2016	Muhammet Tek	48	Far	100	0,03	4656
+21.04.2016	Taner Yýlmaz	50	Fren Disk	59,99	0,18	2459,59
+1.02.2016	Þemsettin Aksay	1	Far	100	0	100
+24.04.2016	Serdar Kýlýç	37	Fren Disk	59,99	0,06	2086,4522
+6.06.2016	Kenan Arýbaþ	175	Yað Filtresi	43,69	0,42	4434,535
+4.01.2016	Orçun Doðan	7	Yað Filtresi	43,69	0	305,83
+1.02.2016	Kubilay Taþtutar	31	Buji Takýmý	43	0,09	1213,03
+2.02.2016	Ahmet Yüce	175	Viraj Lastiði	23,95	0,23	3227,2625
+19.02.2016	Kubilay Taþtutar	40	Far	100	0,1	3600
+23.03.2016	Osman Þibik	18	Debiyaj Seti	22	0,07	368,28
+7.06.2016	Hüseyin Anýlan	9	Silecek	19,99	0	179,91
+23.02.2016	Osman Þibik	350	Far	100	0,4	21000
+3.06.2016	Behice Keleþ	7	Rot Kolu	27,95	0	195,65
+16.02.2016	Ahmet Akgüneþ	40	Rot Baþý	23	0,05	874
+8.01.2016	Taner Yýlmaz	9	Fren Balatasý	24,99	0	224,91
+14.06.2016	Soner Bereket	6	Günelik	15,95	0	95,7
+24.05.2016	Pýnar Girmen	14	Buji Takýmý	43	0,11	535,78
+14.06.2016	Suat Çelik	9	Rot Baþý	23	0	207
+12.02.2016	Serdar Kýlýç	400	Fren Balatasý	24,99	0,43	5697,72
+15.03.2016	Serdar Kýlýç	8	Ateþleme Bobini	25,95	0	207,6
+20.05.2016	Azem Alptekin	9	Tekerlek	19,99	0	179,91
+5.03.2016	Ergun Kaya	24	Fren Balatasý	24,99	0,09	545,7816
+22.03.2016	Engin Özdemir	4	Debiyaj Seti	22	0	88
+4.01.2016	Engin Özdemir	38	Far	100	0,01	3762
+31.05.2016	Koray Cengiz	375	Rot Kolu	27,95	0,54	4821,375
+17.03.2016	Pýnar Girmen	5	Günelik	15,95	0	79,75
+13.02.2016	Dilek Gürbüz	1	Debiyaj Seti	22	0	22
+7.04.2016	Ahmet Akgüneþ	29	Silecek	19,99	0,1	521,739
+11.03.2016	Serdar Kýlýç	150	Fren Balatasý	24,99	0,47	1986,705
+9.01.2016	Pýnar Girmen	5	Tekerlek	19,99	0	99,95
+4.05.2016	Deniz Kite	1	Far	100	0	100
+16.06.2016	Gülten Seha	325	Tekerlek	19,99	0,63	2403,7975
+27.02.2016	Azem Alptekin	5	Silecek	19,99	0	99,95
+7.02.2016	Sevil Çetinkaya	525	Trigger Seti	26	0,57	5869,5
+29.06.2016	Pýnar Girmen	23	Silecek	19,99	0,09	418,3907
+6.04.2016	Levent Koç	5	Ateþleme Bobini	25,95	0	129,75
+23.04.2016	Buket Erezcan	5	Debiyaj Seti	22	0	110
+22.03.2016	Pýnar Girmen	1	Silecek	19,99	0	19,99
+9.01.2016	Yasin Uygur	10	Rot Baþý	23	0,07	213,9
+23.02.2016	Ahmet Akgüneþ	525	Fren Disk	59,99	0,54	14487,585
+20.01.2016	Gülten Seha	8	Rot Kolu	27,95	0	223,6
+8.01.2016	Emrah Kýrýmsoy	325	Buji Takýmý	43	0,5	6987,5
+16.04.2016	Hadi Ýstanbullu	45	Buji Takýmý	43	0,14	1664,1
+6.06.2016	Burak Öztemel	50	Yað Filtresi	43,69	0,24	1660,22
+23.05.2016	Behice Keleþ	3	Buji Takýmý	43	0	129
+7.05.2016	Suat Çelik	5	Buji Takýmý	43	0	215
+17.03.2016	Deniz Kite	2	Rot Kolu	27,95	0	55,9
+3.05.2016	Kubilay Taþtutar	16	Yað Filtresi	43,69	0,1	629,136
+17.06.2016	Osman Þibik	9	Fren Balatasý	24,99	0	224,91
+27.02.2016	Özge Dinçer	6	Rot Baþý	23	0	138
+27.05.2016	Ayça Kayaþ	7	Rot Baþý	23	0	161
+7.06.2016	Osman Þibik	300	Tekerlek	19,99	0,61	2338,83
+16.05.2016	Önerbay Ertuðrul	16	Silecek	19,99	0,04	307,0464
+10.04.2016	Þehabettin Gündoðdu	450	Yað Filtresi	43,69	0,64	7077,78
+31.01.2016	Suat Çelik	4	Rot Baþý	23	0	92
+23.05.2016	Osman Þibik	100	Fren Disk	59,99	0,5	2999,5
+12.03.2016	Kenan Arýbaþ	200	Fren Disk	59,99	0,54	5519,08
+4.03.2016	Sibel Demir	375	Yað Filtresi	43,69	0,51	8028,0375
+1.05.2016	Sevil Çetinkaya	15	Trigger Seti	26	0,12	343,2
+22.04.2016	Orçun Doðan	525	Ateþleme Bobini	25,95	0,63	5040,7875
+13.06.2016	Ergun Kaya	375	Debiyaj Seti	22	0,61	3217,5
+24.01.2016	Ýbrahim Taha	36	Fren Balatasý	24,99	0,12	791,6832
+16.03.2016	Levent Koç	150	Debiyaj Seti	22	0,36	2112
+29.01.2016	Soner Bereket	325	Debiyaj Seti	22	0,4	4290
+29.04.2016	Soner Bereket	13	Viraj Lastiði	23,95	0,13	270,8745
+14.01.2016	Taner Yýlmaz	400	Debiyaj Seti	22	0,63	3256
+19.05.2016	Kerem Köker	43	Yað Filtresi	43,69	0,04	1803,5232
+19.01.2016	Emrah Kýrýmsoy	21	Fren Disk	59,99	0,11	1121,2131
+22.01.2016	Necmettin Yemiþ	13	Yað Filtresi	43,69	0,12	499,8136
+5.04.2016	Orçun Doðan	425	Fren Balatasý	24,99	0,58	4460,715
+12.04.2016	Hasan Coþkun	9	Trigger Seti	26	0	234
+2.06.2016	Levent Koç	46	Ateþleme Bobini	25,95	0,04	1145,952
+18.05.2016	Þemsettin Aksay	500	Far	100	0,43	28500
+20.04.2016	Deniz Kite	1	Debiyaj Seti	22	0	22
+16.06.2016	Muhammet Tek	4	Viraj Lastiði	23,95	0	95,8
+30.03.2016	Burak Öztemel	42	Debiyaj Seti	22	0,02	905,52
+16.06.2016	Orçun Doðan	2	Günelik	15,95	0	31,9
+18.02.2016	Ayça Kayaþ	28	Fren Balatasý	24,99	0,02	685,7256
+17.01.2016	Ufuk Çaðlayan	375	Trigger Seti	26	0,64	3510
+6.06.2016	Koray Cengiz	44	Silecek	19,99	0,1	791,604
+21.04.2016	Kerem Köker	600	Rot Kolu	27,95	0,46	9055,8
+19.03.2016	Soner Bereket	29	Far	100	0,01	2871
+3.01.2016	Ramazan Coþkun	400	Yað Filtresi	43,69	0,43	9961,32
+9.03.2016	Osman Þibik	6	Trigger Seti	26	0	156
+24.01.2016	Sevil Çetinkaya	14	Tekerlek	19,99	0,02	274,2628
+13.03.2016	Ergun Kaya	250	Trigger Seti	26	0,61	2535
+10.04.2016	Behice Keleþ	100	Far	100	0,43	5700
+14.01.2016	Ahmet Yüce	6	Rot Kolu	27,95	0	167,7
+30.04.2016	Özge Dinçer	8	Debiyaj Seti	22	0	176
+28.03.2016	Gülten Seha	375	Yað Filtresi	43,69	0,46	8847,225
+17.04.2016	Ayça Kayaþ	15	Yað Filtresi	43,69	0,14	563,601
+2.01.2016	Buket Erezcan	6	Ateþleme Bobini	25,95	0	155,7
+10.03.2016	Ali Koç	375	Rot Baþý	23	0,47	4571,25
+6.02.2016	Deniz Kite	30	Silecek	19,99	0,01	593,703
+4.05.2016	Soner Bereket	275	Fren Disk	59,99	0,45	9073,4875
+3.04.2016	Sevil Çetinkaya	150	Ateþleme Bobini	25,95	0,46	2101,95
+15.06.2016	Gülten Seha	600	Trigger Seti	26	0,61	6084
+7.05.2016	Ergun Kaya	5	Viraj Lastiði	23,95	0	119,75
+20.04.2016	Ali Koç	11	Far	100	0,12	968
+1.05.2016	Soner Bereket	27	Fren Disk	59,99	0,15	1376,7705
+7.01.2016	Sevil Çetinkaya	47	Yað Filtresi	43,69	0,15	1745,4155
+16.04.2016	Engin Özdemir	275	Buji Takýmý	43	0,43	6740,25
+7.01.2016	Engin Özdemir	3	Buji Takýmý	43	0	129
+30.01.2016	Esat Çetin	75	Debiyaj Seti	22	0,25	1237,5
+6.06.2016	Hasan Coþkun	7	Buji Takýmý	43	0	301
+19.04.2016	Taner Yýlmaz	100	Tekerlek	19,99	0,36	1279,36
+27.03.2016	Buket Erezcan	8	Yað Filtresi	43,69	0	349,52
+11.04.2016	Suat Çelik	4	Ateþleme Bobini	25,95	0	103,8
+22.05.2016	Azem Alptekin	150	Fren Balatasý	24,99	0,36	2399,04
+27.04.2016	Kenan Arýbaþ	1	Trigger Seti	26	0	26
+23.03.2016	Ali Koç	22	Silecek	19,99	0,13	382,6086
+19.03.2016	Önerbay Ertuðrul	600	Yað Filtresi	43,69	0,59	10747,74
+13.04.2016	Sibel Demir	600	Fren Balatasý	24,99	0,59	6147,54
+21.02.2016	Engin Özdemir	275	Fren Balatasý	24,99	0,55	3092,5125
+5.04.2016	Taylan Denizhan	4	Günelik	15,95	0	63,8
+13.04.2016	Levent Koç	21	Debiyaj Seti	22	0,03	448,14
+24.05.2016	Emrah Kýrýmsoy	47	Günelik	15,95	0,12	659,692
+13.01.2016	Buket Erezcan	175	Yað Filtresi	43,69	0,49	3899,3325
+24.02.2016	Murat Mandýracý	2	Silecek	19,99	0	39,98
+21.04.2016	Soner Bereket	9	Rot Baþý	23	0	207
+18.04.2016	Taner Yýlmaz	5	Trigger Seti	26	0	130
+10.01.2016	Kubilay Taþtutar	275	Yað Filtresi	43,69	0,47	6367,8175
+19.01.2016	Necmettin Yemiþ	525	Yað Filtresi	43,69	0,49	11697,9975
+31.05.2016	Gülten Seha	3	Silecek	19,99	0	59,97
+26.02.2016	Emrah Kýrýmsoy	175	Rot Kolu	27,95	0,24	3717,35
+30.01.2016	Hüseyin Anýlan	4	Günelik	15,95	0	63,8
+4.05.2016	Orçun Doðan	150	Günelik	15,95	0,21	1890,075
+22.01.2016	Necmettin Yemiþ	9	Günelik	15,95	0	143,55
+17.02.2016	Hülya Toprak	41	Far	100	0,07	3813
+14.03.2016	Necmettin Yemiþ	450	Buji Takýmý	43	0,54	8901
+14.03.2016	Gülten Seha	175	Tekerlek	19,99	0,26	2588,705
+8.01.2016	Þemsettin Aksay	100	Ateþleme Bobini	25,95	0,45	1427,25
+2.05.2016	Kubilay Taþtutar	150	Rot Kolu	27,95	0,4	2515,5
+6.03.2016	Birol Bilgili	125	Viraj Lastiði	23,95	0,47	1586,6875
+15.03.2016	Deniz Kite	16	Buji Takýmý	43	0,03	667,36
+10.05.2016	Ayan Öztürk	150	Viraj Lastiði	23,95	0,31	2478,825
+4.03.2016	Koray Cengiz	9	Günelik	15,95	0	143,55
+3.04.2016	Soner Bereket	475	Rot Kolu	27,95	0,47	7036,4125
+6.01.2016	Murat Mandýracý	250	Rot Kolu	27,95	0,58	2934,75
+16.01.2016	Hüseyin Anýlan	75	Debiyaj Seti	22	0,2	1320
+17.03.2016	Damla Diker	2	Trigger Seti	26	0	52
+2.01.2016	Burak Öztemel	150	Ateþleme Bobini	25,95	0,49	1985,175
+8.02.2016	Þehabettin Gündoðdu	4	Silecek	19,99	0	79,96
+19.03.2016	Gülten Seha	525	Viraj Lastiði	23,95	0,62	4778,025
+13.01.2016	Hasan Coþkun	46	Silecek	19,99	0,14	790,8044
+12.02.2016	Esat Çetin	6	Trigger Seti	26	0	156
+15.06.2016	Taner Yýlmaz	50	Rot Baþý	23	0,26	851
+11.01.2016	Dilek Gürbüz	13	Fren Disk	59,99	0,11	694,0843
+28.06.2016	Sevil Çetinkaya	42	Rot Kolu	27,95	0,08	1079,988
+18.02.2016	Muhammet Tek	325	Fren Balatasý	24,99	0,63	3005,0475
+15.01.2016	Taylan Denizhan	3	Buji Takýmý	43	0	129
+27.01.2016	Dilek Gürbüz	30	Yað Filtresi	43,69	0,14	1127,202
+2.01.2016	Hasan Coþkun	46	Tekerlek	19,99	0,01	910,3446
+26.04.2016	Önerbay Ertuðrul	4	Fren Disk	59,99	0	239,96
+28.01.2016	Kubilay Taþtutar	10	Trigger Seti	26	0,11	231,4
+5.05.2016	Ýbrahim Taha	34	Far	100	0,07	3162
+10.04.2016	Damla Diker	4	Yað Filtresi	43,69	0	174,76
+13.05.2016	Pýnar Girmen	400	Silecek	19,99	0,44	4477,76
+29.05.2016	Engin Özdemir	21	Rot Kolu	27,95	0,08	539,994
+15.02.2016	Hüseyin Anýlan	425	Far	100	0,5	21250
+9.01.2016	Ergun Kaya	9	Yað Filtresi	43,69	0	393,21
+24.02.2016	Orçun Doðan	5	Silecek	19,99	0	99,95
+24.04.2016	Orçun Doðan	3	Ateþleme Bobini	25,95	0	77,85
+2.04.2016	Orçun Doðan	5	Fren Balatasý	24,99	0	124,95
+23.03.2016	Soner Bereket	2	Silecek	19,99	0	39,98
+28.03.2016	Burak Öztemel	41	Silecek	19,99	0,04	786,8064
+18.03.2016	Þehabettin Gündoðdu	75	Buji Takýmý	43	0,16	2709
+6.01.2016	Damla Diker	33	Trigger Seti	26	0,02	840,84
+11.05.2016	Kubilay Taþtutar	7	Viraj Lastiði	23,95	0	167,65
+10.01.2016	Ahmet Akgüneþ	1	Silecek	19,99	0	19,99
+22.04.2016	Hasan Coþkun	49	Silecek	19,99	0,05	930,5345
+3.06.2016	Sibel Demir	8	Fren Balatasý	24,99	0	199,92
+11.02.2016	Ayan Öztürk	6	Debiyaj Seti	22	0	132
+1.05.2016	Ahmet Yüce	10	Trigger Seti	26	0,05	247
+8.02.2016	Þemsettin Aksay	33	Far	100	0,07	3069
+20.05.2016	Koray Cengiz	425	Fren Disk	59,99	0,5	12747,875
+26.02.2016	Ergun Kaya	35	Yað Filtresi	43,69	0,14	1315,069
+24.06.2016	Ali Koç	2	Debiyaj Seti	22	0	44
+7.02.2016	Buket Erezcan	36	Far	100	0,08	3312
+17.02.2016	Murat Mandýracý	19	Far	100	0,11	1691
+20.05.2016	Taner Yýlmaz	4	Silecek	19,99	0	79,96
+21.02.2016	Yasin Uygur	525	Trigger Seti	26	0,59	5596,5
+8.04.2016	Dilek Gürbüz	575	Trigger Seti	26	0,54	6877
+30.03.2016	Özge Dinçer	24	Buji Takýmý	43	0,04	990,72
+25.03.2016	Ramazan Coþkun	23	Buji Takýmý	43	0,14	850,54
+26.02.2016	Ayan Öztürk	2	Fren Balatasý	24,99	0	49,98
+23.06.2016	Ayça Kayaþ	5	Debiyaj Seti	22	0	110
+20.01.2016	Kubilay Taþtutar	75	Rot Baþý	23	0,22	1345,5
+24.04.2016	Muhammet Tek	16	Far	100	0,09	1456
+8.04.2016	Pýnar Girmen	5	Günelik	15,95	0	79,75
+27.05.2016	Ali Koç	2	Viraj Lastiði	23,95	0	47,9
+23.05.2016	Hadi Ýstanbullu	7	Tekerlek	19,99	0	139,93
+1.01.2016	Behice Keleþ	1	Rot Kolu	27,95	0	27,95
+26.02.2016	Kubilay Taþtutar	375	Rot Kolu	27,95	0,55	4716,5625
+21.02.2016	Ahmet Akgüneþ	4	Trigger Seti	26	0	104
+14.04.2016	Ergun Kaya	33	Fren Balatasý	24,99	0,13	717,4629
+24.06.2016	Serdar Kýlýç	1	Silecek	19,99	0	19,99
+13.05.2016	Burak Öztemel	10	Rot Baþý	23	0,04	220,8
+19.06.2016	Hadi Ýstanbullu	9	Fren Disk	59,99	0	539,91
+19.06.2016	Önerbay Ertuðrul	47	Rot Baþý	23	0,15	918,85
+30.01.2016	Esat Çetin	18	Silecek	19,99	0,02	352,6236
+21.06.2016	Behice Keleþ	16	Fren Disk	59,99	0,14	825,4624
+9.06.2016	Orçun Doðan	3	Rot Kolu	27,95	0	83,85
+5.04.2016	Serdar Kýlýç	20	Tekerlek	19,99	0,07	371,814
+30.01.2016	Taylan Denizhan	39	Trigger Seti	26	0,09	922,74
+8.01.2016	Birol Bilgili	9	Fren Disk	59,99	0	539,91
+22.04.2016	Necmettin Yemiþ	3	Fren Balatasý	24,99	0	74,97
+22.02.2016	Deniz Kite	3	Debiyaj Seti	22	0	66
+5.02.2016	Damla Diker	175	Fren Balatasý	24,99	0,5	2186,625
+13.01.2016	Sýtký Iþýt	13	Tekerlek	19,99	0,01	257,2713
+14.04.2016	Ali Koç	8	Yað Filtresi	43,69	0	349,52
+7.04.2016	Sýtký Iþýt	6	Fren Balatasý	24,99	0	149,94
+31.03.2016	Kubilay Taþtutar	3	Buji Takýmý	43	0	129
+24.02.2016	Kubilay Taþtutar	150	Trigger Seti	26	0,35	2535
+24.02.2016	Soner Bereket	19	Buji Takýmý	43	0,07	759,81
+7.02.2016	Ahmet Akgüneþ	26	Far	100	0,11	2314
+20.01.2016	Osman Þibik	41	Debiyaj Seti	22	0,04	865,92
+7.03.2016	Þehabettin Gündoðdu	9	Yað Filtresi	43,69	0	393,21
+23.03.2016	Kubilay Taþtutar	1	Far	100	0	100
+11.03.2016	Orçun Doðan	6	Tekerlek	19,99	0	119,94
+11.06.2016	Ali Koç	500	Debiyaj Seti	22	0,41	6490
+16.02.2016	Soner Bereket	9	Tekerlek	19,99	0	179,91
+7.01.2016	Ramazan Coþkun	450	Tekerlek	19,99	0,55	4047,975
+18.05.2016	Özge Dinçer	300	Yað Filtresi	43,69	0,45	7208,85
+28.01.2016	Engin Özdemir	1	Rot Baþý	23	0	23
+14.03.2016	Osman Þibik	39	Rot Baþý	23	0,15	762,45
+6.03.2016	Sevil Çetinkaya	3	Viraj Lastiði	23,95	0	71,85
+12.03.2016	Taner Yýlmaz	17	Buji Takýmý	43	0,13	635,97
+21.05.2016	Murat Mandýracý	40	Ateþleme Bobini	25,95	0,04	996,48
+22.05.2016	Kenan Arýbaþ	500	Fren Disk	59,99	0,58	12597,9
+1.03.2016	Kenan Arýbaþ	325	Rot Baþý	23	0,54	3438,5
+13.02.2016	Metin Koçyiðit	16	Far	100	0,1	1440
+24.01.2016	Ýbrahim Taha	27	Far	100	0,1	2430
+23.02.2016	Emrah Kýrýmsoy	1	Günelik	15,95	0	15,95
+13.02.2016	Damla Diker	450	Yað Filtresi	43,69	0,58	8257,41
+2.04.2016	Ramazan Coþkun	24	Rot Baþý	23	0,08	507,84
+8.01.2016	Sevil Çetinkaya	150	Fren Balatasý	24,99	0,16	3148,74
+1.06.2016	Ergun Kaya	16	Günelik	15,95	0,15	216,92
+20.02.2016	Esat Çetin	23	Fren Disk	59,99	0,13	1200,3999
+7.01.2016	Taner Yýlmaz	8	Yað Filtresi	43,69	0	349,52
+10.02.2016	Damla Diker	44	Buji Takýmý	43	0,02	1854,16
+23.06.2016	Dilek Gürbüz	475	Günelik	15,95	0,55	3409,3125
+23.01.2016	Birol Bilgili	28	Yað Filtresi	43,69	0,14	1052,0552
+15.05.2016	Azem Alptekin	5	Rot Baþý	23	0	115
+27.06.2016	Necmettin Yemiþ	300	Fren Balatasý	24,99	0,63	2773,89
+7.04.2016	Hülya Toprak	9	Yað Filtresi	43,69	0	393,21
+19.02.2016	Þehabettin Gündoðdu	4	Far	100	0	400
+13.04.2016	Hasan Coþkun	7	Günelik	15,95	0	111,65
+19.03.2016	Ramazan Coþkun	200	Ateþleme Bobini	25,95	0,62	1972,2
+25.01.2016	Muhammet Tek	45	Rot Baþý	23	0,04	993,6
+19.06.2016	Yasin Uygur	3	Silecek	19,99	0	59,97
+8.06.2016	Azem Alptekin	22	Silecek	19,99	0,15	373,813
+11.04.2016	Emrah Kýrýmsoy	8	Trigger Seti	26	0	208
+23.05.2016	Orçun Doðan	9	Ateþleme Bobini	25,95	0	233,55
+25.01.2016	Serdar Kýlýç	550	Debiyaj Seti	22	0,57	5203
+27.04.2016	Ramazan Coþkun	12	Debiyaj Seti	22	0,06	248,16
+22.06.2016	Azem Alptekin	3	Viraj Lastiði	23,95	0	71,85
+1.05.2016	Ýbrahim Taha	39	Debiyaj Seti	22	0,08	789,36
+17.06.2016	Þemsettin Aksay	3	Buji Takýmý	43	0	129
+30.05.2016	Ergun Kaya	3	Far	100	0	300
+3.02.2016	Metin Koçyiðit	575	Silecek	19,99	0,44	6436,78
+20.01.2016	Esat Çetin	1	Fren Disk	59,99	0	59,99
+21.04.2016	Birol Bilgili	5	Silecek	19,99	0	99,95
+15.01.2016	Ýbrahim Taha	550	Fren Disk	59,99	0,46	17817,03
+14.06.2016	Yasin Uygur	39	Günelik	15,95	0,13	541,1835
+12.05.2016	Sýtký Iþýt	500	Ateþleme Bobini	25,95	0,61	5060,25
+3.06.2016	Emrah Kýrýmsoy	8	Rot Baþý	23	0	184
+16.02.2016	Ramazan Coþkun	9	Silecek	19,99	0	179,91
+27.05.2016	Kenan Arýbaþ	6	Ateþleme Bobini	25,95	0	155,7
+21.05.2016	Dilek Gürbüz	525	Far	100	0,65	18375
+11.03.2016	Necmettin Yemiþ	100	Far	100	0,18	8200
+17.06.2016	Metin Koçyiðit	6	Silecek	19,99	0	119,94
+14.02.2016	Taylan Denizhan	100	Buji Takýmý	43	0,18	3526
+14.03.2016	Metin Koçyiðit	20	Viraj Lastiði	23,95	0,11	426,31
+5.03.2016	Damla Diker	100	Fren Balatasý	24,99	0,18	2049,18
+31.05.2016	Ramazan Coþkun	7	Silecek	19,99	0	139,93
+19.03.2016	Taner Yýlmaz	1	Yað Filtresi	43,69	0	43,69
+26.05.2016	Ali Koç	10	Tekerlek	19,99	0,03	193,903
+9.04.2016	Engin Özdemir	14	Far	100	0,12	1232
+16.02.2016	Orçun Doðan	37	Rot Baþý	23	0,06	799,94
+2.03.2016	Önerbay Ertuðrul	34	Ateþleme Bobini	25,95	0,1	794,07
+6.06.2016	Þehabettin Gündoðdu	275	Silecek	19,99	0,54	2528,735
+15.06.2016	Özge Dinçer	47	Viraj Lastiði	23,95	0,15	956,8025
+1.06.2016	Gülten Seha	20	Debiyaj Seti	22	0,07	409,2
+7.04.2016	Esat Çetin	100	Fren Disk	59,99	0,5	2999,5
+14.06.2016	Murat Mandýracý	5	Buji Takýmý	43	0	215
+25.02.2016	Birol Bilgili	375	Yað Filtresi	43,69	0,4	9830,25
+23.03.2016	Damla Diker	8	Yað Filtresi	43,69	0	349,52
+7.01.2016	Kerem Köker	28	Silecek	19,99	0,13	486,9564
+10.06.2016	Taylan Denizhan	475	Trigger Seti	26	0,4	7410
+17.05.2016	Engin Özdemir	49	Buji Takýmý	43	0,07	1959,51
+11.01.2016	Emrah Kýrýmsoy	75	Buji Takýmý	43	0,41	1902,75
+18.04.2016	Murat Mandýracý	2	Debiyaj Seti	22	0	44
+26.05.2016	Necmettin Yemiþ	17	Günelik	15,95	0,09	246,7465
+1.04.2016	Levent Koç	400	Rot Kolu	27,95	0,45	6149
+14.04.2016	Burak Öztemel	43	Buji Takýmý	43	0,01	1830,51
+10.02.2016	Hüseyin Anýlan	23	Trigger Seti	26	0,04	574,08
+22.03.2016	Kenan Arýbaþ	10	Viraj Lastiði	23,95	0,12	210,76
+1.05.2016	Yasin Uygur	5	Günelik	15,95	0	79,75
+8.02.2016	Kenan Arýbaþ	9	Rot Baþý	23	0	207
+21.04.2016	Koray Cengiz	2	Buji Takýmý	43	0	86
+22.05.2016	Engin Özdemir	1	Yað Filtresi	43,69	0	43,69
+25.05.2016	Gülten Seha	8	Günelik	15,95	0	127,6
+5.06.2016	Engin Özdemir	575	Rot Baþý	23	0,51	6480,25
+9.02.2016	Serdar Kýlýç	19	Yað Filtresi	43,69	0,09	755,4001
+16.02.2016	Önerbay Ertuðrul	3	Rot Kolu	27,95	0	83,85
+5.04.2016	Dilek Gürbüz	5	Viraj Lastiði	23,95	0	119,75
+2.02.2016	Emrah Kýrýmsoy	600	Debiyaj Seti	22	0,4	7920
+27.05.2016	Hüseyin Anýlan	7	Tekerlek	19,99	0	139,93
+14.04.2016	Ali Koç	300	Yað Filtresi	43,69	0,45	7208,85
+12.05.2016	Ufuk Çaðlayan	8	Tekerlek	19,99	0	159,92
+17.04.2016	Muhammet Tek	47	Viraj Lastiði	23,95	0,05	1069,3675
+25.06.2016	Hasan Coþkun	11	Yað Filtresi	43,69	0,12	422,9192
+12.04.2016	Hasan Coþkun	300	Debiyaj Seti	22	0,58	2772
+16.03.2016	Ahmet Yüce	125	Debiyaj Seti	22	0,38	1705
+29.01.2016	Dilek Gürbüz	24	Fren Balatasý	24,99	0,06	563,7744
+3.05.2016	Hasan Coþkun	6	Far	100	0	600
+19.06.2016	Ramazan Coþkun	19	Yað Filtresi	43,69	0,15	705,5935
+23.04.2016	Dilek Gürbüz	2	Tekerlek	19,99	0	39,98
+15.03.2016	Sibel Demir	475	Buji Takýmý	43	0,63	7557,25
+29.03.2016	Sevil Çetinkaya	21	Fren Disk	59,99	0,02	1234,5942
+4.05.2016	Emrah Kýrýmsoy	1	Rot Baþý	23	0	23
+22.02.2016	Esat Çetin	40	Fren Balatasý	24,99	0,02	979,608
+4.03.2016	Ufuk Çaðlayan	2	Buji Takýmý	43	0	86
+27.03.2016	Soner Bereket	200	Buji Takýmý	43	0,41	5074
+19.03.2016	Emrah Kýrýmsoy	5	Fren Disk	59,99	0	299,95
+15.04.2016	Hasan Coþkun	8	Debiyaj Seti	22	0	176
+7.03.2016	Koray Cengiz	4	Fren Balatasý	24,99	0	99,96
+10.04.2016	Kenan Arýbaþ	8	Fren Balatasý	24,99	0	199,92
+12.01.2016	Þehabettin Gündoðdu	3	Yað Filtresi	43,69	0	131,07
+16.06.2016	Esat Çetin	5	Debiyaj Seti	22	0	110
+3.05.2016	Taylan Denizhan	75	Yað Filtresi	43,69	0,48	1703,91
+9.01.2016	Burak Öztemel	7	Fren Disk	59,99	0	419,93
+16.01.2016	Dilek Gürbüz	125	Viraj Lastiði	23,95	0,31	2065,6875
+17.04.2016	Þehabettin Gündoðdu	9	Fren Balatasý	24,99	0	224,91
+28.05.2016	Osman Þibik	9	Far	100	0	900
+29.01.2016	Deniz Kite	12	Yað Filtresi	43,69	0,1	471,852
+26.06.2016	Taner Yýlmaz	250	Far	100	0,64	9000
+15.03.2016	Sibel Demir	450	Trigger Seti	26	0,52	5616
+15.01.2016	Hasan Coþkun	5	Rot Kolu	27,95	0	139,75
+15.02.2016	Hülya Toprak	200	Trigger Seti	26	0,52	2496
+24.01.2016	Pýnar Girmen	16	Buji Takýmý	43	0,09	626,08
+6.02.2016	Kerem Köker	9	Fren Disk	59,99	0	539,91
+29.05.2016	Ayan Öztürk	175	Trigger Seti	26	0,41	2684,5
+3.05.2016	Soner Bereket	23	Rot Kolu	27,95	0,14	552,851
+18.03.2016	Dilek Gürbüz	225	Ateþleme Bobini	25,95	0,49	2977,7625
+7.06.2016	Dilek Gürbüz	41	Silecek	19,99	0,13	713,0433
+10.03.2016	Sevil Çetinkaya	12	Far	100	0,04	1152
+2.06.2016	Muhammet Tek	375	Viraj Lastiði	23,95	0,47	4760,0625
+25.02.2016	Kubilay Taþtutar	5	Far	100	0	500
+7.04.2016	Ayça Kayaþ	17	Viraj Lastiði	23,95	0,1	366,435
+9.04.2016	Necmettin Yemiþ	25	Rot Baþý	23	0,15	488,75
+26.01.2016	Esat Çetin	11	Debiyaj Seti	22	0,15	205,7
+18.05.2016	Ýbrahim Taha	20	Tekerlek	19,99	0,06	375,812
+10.05.2016	Suat Çelik	6	Viraj Lastiði	23,95	0	143,7
+3.04.2016	Ergun Kaya	325	Trigger Seti	26	0,47	4478,5
+22.04.2016	Engin Özdemir	3	Rot Baþý	23	0	69
+22.05.2016	Ahmet Akgüneþ	16	Rot Baþý	23	0,09	334,88
+8.05.2016	Behice Keleþ	42	Tekerlek	19,99	0,13	730,4346
+22.06.2016	Soner Bereket	6	Rot Baþý	23	0	138
+20.04.2016	Hasan Coþkun	21	Tekerlek	19,99	0,12	369,4152
+27.04.2016	Ergun Kaya	6	Rot Kolu	27,95	0	167,7
+17.05.2016	Kubilay Taþtutar	325	Günelik	15,95	0,45	2851,0625
+14.05.2016	Sibel Demir	6	Fren Disk	59,99	0	359,94
+2.05.2016	Emrah Kýrýmsoy	425	Tekerlek	19,99	0,53	3993,0025
+26.05.2016	Gülten Seha	150	Viraj Lastiði	23,95	0,2	2874
+21.03.2016	Þehabettin Gündoðdu	44	Viraj Lastiði	23,95	0,14	906,268
+21.04.2016	Behice Keleþ	6	Yað Filtresi	43,69	0	262,14
+1.04.2016	Hasan Coþkun	9	Viraj Lastiði	23,95	0	215,55
+21.01.2016	Ayan Öztürk	35	Yað Filtresi	43,69	0,01	1513,8585
+26.05.2016	Burak Öztemel	14	Silecek	19,99	0,04	268,6656
+23.05.2016	Hülya Toprak	550	Far	100	0,43	31350
+14.03.2016	Hasan Coþkun	250	Yað Filtresi	43,69	0,41	6444,275
+29.02.2016	Sýtký Iþýt	6	Trigger Seti	26	0	156
+2.02.2016	Sibel Demir	34	Silecek	19,99	0,12	598,1008
+3.05.2016	Koray Cengiz	525	Günelik	15,95	0,58	3516,975
+19.01.2016	Taylan Denizhan	2	Rot Kolu	27,95	0	55,9
+25.04.2016	Önerbay Ertuðrul	13	Rot Baþý	23	0,08	275,08
+2.02.2016	Ayan Öztürk	275	Fren Balatasý	24,99	0,65	2405,2875
+21.05.2016	Necmettin Yemiþ	5	Rot Kolu	27,95	0	139,75
+9.05.2016	Ýbrahim Taha	1	Yað Filtresi	43,69	0	43,69
+5.03.2016	Kenan Arýbaþ	4	Far	100	0	400
+10.04.2016	Esat Çetin	5	Günelik	15,95	0	79,75
+9.02.2016	Ramazan Coþkun	150	Ateþleme Bobini	25,95	0,3	2724,75
+24.06.2016	Engin Özdemir	50	Trigger Seti	26	0,41	767
+2.03.2016	Yasin Uygur	475	Rot Baþý	23	0,46	5899,5
+19.05.2016	Önerbay Ertuðrul	225	Buji Takýmý	43	0,56	4257
+1.03.2016	Önerbay Ertuðrul	4	Fren Disk	59,99	0	239,96
+7.05.2016	Þemsettin Aksay	500	Rot Kolu	27,95	0,49	7127,25
+14.06.2016	Orçun Doðan	38	Fren Disk	59,99	0,13	1983,2694
+24.06.2016	Ramazan Coþkun	9	Günelik	15,95	0	143,55
+9.01.2016	Gülten Seha	35	Fren Disk	59,99	0,01	2078,6535
+20.01.2016	Esat Çetin	45	Viraj Lastiði	23,95	0,14	926,865
+13.05.2016	Muhammet Tek	1	Rot Baþý	23	0	23
+4.04.2016	Ahmet Yüce	9	Fren Balatasý	24,99	0	224,91
+7.02.2016	Suat Çelik	48	Silecek	19,99	0,11	853,9728
+24.03.2016	Ali Koç	21	Viraj Lastiði	23,95	0,11	447,6255
+2.04.2016	Emrah Kýrýmsoy	6	Trigger Seti	26	0	156
+3.02.2016	Murat Mandýracý	100	Tekerlek	19,99	0,26	1479,26
+2.02.2016	Hüseyin Anýlan	7	Silecek	19,99	0	139,93
+17.03.2016	Burak Öztemel	4	Rot Baþý	23	0	92
+16.03.2016	Taner Yýlmaz	19	Yað Filtresi	43,69	0,04	796,9056
+28.05.2016	Serdar Kýlýç	1	Far	100	0	100
+15.06.2016	Damla Diker	325	Fren Disk	59,99	0,58	8188,635
+24.04.2016	Metin Koçyiðit	9	Fren Disk	59,99	0	539,91
+18.03.2016	Soner Bereket	12	Fren Disk	59,99	0,13	626,2956
+28.01.2016	Birol Bilgili	26	Rot Baþý	23	0,05	568,1
+12.03.2016	Koray Cengiz	350	Rot Baþý	23	0,58	3381
+14.04.2016	Damla Diker	8	Fren Balatasý	24,99	0	199,92
+3.04.2016	Azem Alptekin	350	Tekerlek	19,99	0,5	3498,25
+2.02.2016	Suat Çelik	8	Debiyaj Seti	22	0	176
+17.05.2016	Ýbrahim Taha	375	Debiyaj Seti	22	0,4	4950
+1.05.2016	Hadi Ýstanbullu	21	Günelik	15,95	0,04	321,552
+5.01.2016	Metin Koçyiðit	11	Rot Baþý	23	0,15	215,05
+26.04.2016	Þemsettin Aksay	46	Günelik	15,95	0,02	719,026
+20.05.2016	Engin Özdemir	32	Rot Kolu	27,95	0,07	831,792
+15.02.2016	Özge Dinçer	44	Rot Baþý	23	0,06	951,28
+27.02.2016	Muhammet Tek	34	Viraj Lastiði	23,95	0,01	806,157
+4.01.2016	Ali Koç	300	Debiyaj Seti	22	0,43	3762
+16.01.2016	Ramazan Coþkun	3	Fren Disk	59,99	0	179,97
+10.01.2016	Yasin Uygur	41	Silecek	19,99	0,14	704,8474
+2.04.2016	Ahmet Akgüneþ	450	Tekerlek	19,99	0,52	4317,84
+28.06.2016	Emrah Kýrýmsoy	4	Silecek	19,99	0	79,96
+10.05.2016	Damla Diker	17	Ateþleme Bobini	25,95	0,13	383,8005
+2.06.2016	Kubilay Taþtutar	500	Far	100	0,61	19500
+29.06.2016	Ramazan Coþkun	36	Tekerlek	19,99	0,04	690,8544
+11.04.2016	Sevil Çetinkaya	1	Ateþleme Bobini	25,95	0	25,95
+7.05.2016	Kubilay Taþtutar	1	Trigger Seti	26	0	26
+11.04.2016	Damla Diker	175	Fren Balatasý	24,99	0,47	2317,8225
+27.04.2016	Muhammet Tek	39	Rot Kolu	27,95	0,12	959,244
+21.03.2016	Kenan Arýbaþ	45	Günelik	15,95	0,09	653,1525
+3.01.2016	Koray Cengiz	40	Rot Kolu	27,95	0,03	1084,46
+22.04.2016	Dilek Gürbüz	550	Silecek	19,99	0,42	6376,81
+30.04.2016	Þehabettin Gündoðdu	15	Ateþleme Bobini	25,95	0,03	377,5725
+9.03.2016	Ali Koç	175	Fren Balatasý	24,99	0,19	3542,3325
+28.03.2016	Gülten Seha	34	Trigger Seti	26	0,09	804,44
+2.03.2016	Ali Koç	7	Buji Takýmý	43	0	301
+14.03.2016	Taylan Denizhan	11	Debiyaj Seti	22	0,15	205,7
+18.01.2016	Pýnar Girmen	600	Ateþleme Bobini	25,95	0,43	8874,9
+1.03.2016	Buket Erezcan	100	Günelik	15,95	0,5	797,5
+8.04.2016	Sevil Çetinkaya	325	Rot Kolu	27,95	0,56	3996,85
+14.04.2016	Ýbrahim Taha	9	Rot Kolu	27,95	0	251,55
+20.04.2016	Ýbrahim Taha	46	Debiyaj Seti	22	0,05	961,4
+30.01.2016	Deniz Kite	200	Debiyaj Seti	22	0,52	2112
+24.05.2016	Þemsettin Aksay	45	Tekerlek	19,99	0,01	890,5545
+22.04.2016	Hüseyin Anýlan	48	Trigger Seti	26	0,03	1210,56
+1.05.2016	Dilek Gürbüz	35	Ateþleme Bobini	25,95	0,03	881,0025
+21.01.2016	Sevil Çetinkaya	2	Fren Disk	59,99	0	119,98
+16.03.2016	Hüseyin Anýlan	32	Günelik	15,95	0,04	489,984
+19.01.2016	Ramazan Coþkun	350	Far	100	0,53	16450
+23.05.2016	Dilek Gürbüz	500	Rot Kolu	27,95	0,63	5170,75
+8.01.2016	Hüseyin Anýlan	3	Rot Baþý	23	0	69
+30.05.2016	Levent Koç	2	Trigger Seti	26	0	52
+12.03.2016	Hülya Toprak	30	Fren Balatasý	24,99	0,15	637,245
+9.05.2016	Ahmet Yüce	450	Silecek	19,99	0,64	3238,38
+1.02.2016	Ayça Kayaþ	375	Rot Baþý	23	0,48	4485
+7.05.2016	Dilek Gürbüz	8	Viraj Lastiði	23,95	0	191,6
+11.06.2016	Ýbrahim Taha	525	Rot Kolu	27,95	0,47	7777,0875
+5.02.2016	Deniz Kite	300	Buji Takýmý	43	0,43	7353
+6.04.2016	Buket Erezcan	1	Ateþleme Bobini	25,95	0	25,95
+12.06.2016	Suat Çelik	6	Buji Takýmý	43	0	258
+4.01.2016	Taylan Denizhan	7	Günelik	15,95	0	111,65
+13.06.2016	Necmettin Yemiþ	150	Yað Filtresi	43,69	0,32	4456,38
+15.03.2016	Taylan Denizhan	33	Silecek	19,99	0,04	633,2832
+6.03.2016	Ahmet Yüce	500	Rot Kolu	27,95	0,49	7127,25
+21.05.2016	Sibel Demir	37	Far	100	0,09	3367
+5.01.2016	Muhammet Tek	39	Ateþleme Bobini	25,95	0,13	880,4835
+5.05.2016	Buket Erezcan	6	Yað Filtresi	43,69	0	262,14
+19.02.2016	Sibel Demir	100	Buji Takýmý	43	0,22	3354
+14.05.2016	Murat Mandýracý	50	Rot Kolu	27,95	0,4	838,5
+17.02.2016	Ramazan Coþkun	50	Buji Takýmý	43	0,25	1612,5
+26.02.2016	Emrah Kýrýmsoy	575	Debiyaj Seti	22	0,44	7084
+4.06.2016	Damla Diker	46	Buji Takýmý	43	0,14	1701,08
+25.03.2016	Murat Mandýracý	15	Yað Filtresi	43,69	0,06	616,029
+24.04.2016	Yasin Uygur	50	Silecek	19,99	0,45	549,725
+8.03.2016	Levent Koç	36	Ateþleme Bobini	25,95	0,12	822,096
+2.02.2016	Damla Diker	47	Far	100	0,08	4324
+30.05.2016	Kenan Arýbaþ	100	Viraj Lastiði	23,95	0,21	1892,05
+21.03.2016	Taner Yýlmaz	2	Fren Balatasý	24,99	0	49,98
+6.02.2016	Ergun Kaya	4	Far	100	0	400
+12.04.2016	Ufuk Çaðlayan	40	Yað Filtresi	43,69	0,04	1677,696

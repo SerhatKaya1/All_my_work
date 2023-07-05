@@ -1,0 +1,45 @@
+@model YazarViewModel
+@{
+    ViewData["Title"] = "Yazar Ekle";
+}
+
+<h1 class="display-6">Yeni Yazar Oluştur</h1>
+<hr>
+<form asp-controller="Home" asp-action="YazarEkle" method="post">
+    <div class="row mb-2">
+        <div class="col-2">
+            <label class="form-label" asp-for="Ad"></label>
+        </div>
+        <div class="col-4">
+            <input class="form-control mb-2" type="text" asp-for="Ad">
+            <span asp-validation-for="Ad" class="text-danger"></span>
+        </div>
+
+    </div>
+    <div class="row mb-2">
+        <div class="col-2">
+            <label class="form-label" asp-for="DogumYili"></label>
+        </div>
+        <div class="col-4">
+            <input class="form-control mb-2" type="text" asp-for="DogumYili">
+            <span asp-validation-for="DogumYili" class="text-danger"></span>
+        </div>
+
+    </div>
+
+    <div class="row mb-2">
+        <div class="col-2">
+            <label class="form-label" asp-for="Cinsiyet"></label>
+        </div>
+        <div class="col-4">
+            <input class="form-check-input" type="radio" asp-for="Cinsiyet" value="K" checked><label>Kadın</label>
+            <input class="form-check-input" type="radio" asp-for="Cinsiyet" value="E">
+            <label>Erkek</label>
+        </div>
+    </div>
+    <div class="row mb-2">
+        <div class="col-4 offset-2">
+            <input class="btn btn-primary" type="submit" value="Kaydet">
+        </div>
+    </div>
+</form>

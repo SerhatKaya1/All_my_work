@@ -1,0 +1,12 @@
+Tarih = ADDCOLUMNS(
+    CALENDARAUTO();
+    "Yıl";YEAR([Date]);
+    "AyNo";MONTH([Date]);
+    "GünNo";DAY([Date]);
+    "AyAd";FORMAT([Date];"mmmm");
+    "GünAd";FORMAT([Date];"dddd");
+    "HaftaNo";WEEKNUM([Date];2);
+    "HaftanınGünüNo"; FORMAT([Date];"w");
+    "ÇeyrekNo";FORMAT([Date];"q");
+    "ÇeyrekAd";CONCATENATE(FORMAT([Date];"q");".Çeyrek")
+)

@@ -1,0 +1,30 @@
+@model Kategori
+@{
+    ViewData["Title"] = "Kategori Sil";
+}
+
+<h1 class="display-6 alert alert-danger">DİKKAT! KATEGORİ SİLİNECEK! EMİN MİSİNİZ? </h1>
+<hr>
+<form asp-controller="Home" asp-action="KategoriSil" method="post">
+    <div class="row mb-2">
+        <div class="col-2">
+            <label class="form-label" asp-for="Ad"></label>
+        </div>
+        <div class="col-4">
+            <input class="form-control" type="text" asp-for="Ad">
+        </div>
+    </div>
+    <div class="row mb-2">
+        <div class="col-2">
+            <label class="form-label" asp-for="Aciklama"></label>
+        </div>
+        <div class="col-4">
+            <input class="form-control" type="text" asp-for="Aciklama">
+        </div>
+    </div>
+    <div class="row mb-2">
+        <div class="col-6 d-grid">
+            <input class="btn btn-danger" type="submit" value="Sil">
+        </div>
+    </div>
+</form>

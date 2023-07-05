@@ -1,0 +1,19 @@
+﻿@model SearchQueryDto
+<form asp-area="Admin"
+      asp-controller="Product"
+      asp-action="SearchProduct" class="d-flex justify-content-end">
+    <select asp-for="IsHome" class="form-select me-2" aria-label="Default select example">
+        <option selected>Anasayfa ürünü</option>
+        <option value="null">Tümü</option>
+        <option value="true">Anasayfa ürünleri</option>
+        <option value="false">Anasayfa ürünü dışındakiler</option>
+    </select>
+    <select asp-for="IsApproved" class="form-select me-2" aria-label="Default select example">
+        <option selected>Onaylı</option>
+        <option value="null">Tümü</option>
+        <option value="true">Onaylı ürünler</option>
+        <option value="false">Onaysız ürünler</option>
+    </select>
+    <input class="form-control me-2" asp-for="SearchString" type="search" placeholder="Ara..." aria-label="Search" />
+    <button class="btn btn-outline-success" type="submit">Ara</button>
+</form>

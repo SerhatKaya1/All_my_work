@@ -1,0 +1,231 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+}
+
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: tomato;
+    padding: 8px 16px;
+    height: 70px;
+    position: fixed;
+    width: 90%;
+}
+
+.main-header-logo {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.main-nav-items {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+.main-nav-item {
+    margin: 0 10px;
+}
+
+.main-nav-item a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.main-nav-item a:hover {
+    color: rgb(38, 39, 59);
+}
+
+#showcase {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to top left, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4)), url('/images/home-bg.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-color: rgb(38, 39, 59);
+    color: aliceblue;
+    padding: 10px;
+    width: 100%;
+    height: 80vh;
+    margin-top: 10px;
+}
+
+#showcase .content {
+    background: rgba(46, 76, 109, 0.2);
+    color: white;
+    border-radius: 10px;
+    padding: 60px;
+    width: 50%;
+    text-align: center;
+}
+
+#showcase .content h1 {
+    font-size: 50px;
+}
+
+#how-it-works {
+    background-color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+#how-it-works h2 {
+    color: #3e4555;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+
+
+.icon-box i {
+    color: tomato;
+    font-size: 50px;
+    border-radius: 5px;
+}
+
+.icon-box h3 {
+    color: #3e4555;
+    font-size: 22px;
+}
+
+.features-left {
+    background: url("/images/features.jpeg");
+    background-position: top center;
+    background-size: cover;
+}
+
+.features-right {
+    background-color: #EDF5F7;
+    padding: 40px;
+    vertical-align: top;
+}
+
+.features-right h3 {
+    font-size: 30px;
+}
+
+
+.section-title {
+    text-align: center;
+    font-size: 30px;
+    margin: 10px 0;
+}
+
+.plan {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    background-color: #EDF5F7;
+    border-radius: 5px;
+}
+
+.recommended-plan {
+    background-color: #396EB0 !important;
+    color: #fff;
+}
+
+
+.plan-badge {
+    background-color: #fff;
+    color: tomato;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.plan ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.plan ul li {
+    margin: 6px 0;
+}
+
+
+/* Tarayıcı genişliği 632px altında ise bu kodlar çalışır. */
+@media (max-width: 632px) {
+    .main-header {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .main-nav {
+        margin-top: 20px;
+    }
+
+    .main-nav-items {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 790px) {
+    #showcase .content h1 {
+        font-size: 35px;
+    }
+
+    #showcase .content h2 {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 650px) {
+    #showcase .content {
+        padding: 20px;
+    }
+
+    #showcase .content h1 {
+        font-size: 20px;
+    }
+
+    #showcase .content h2 {
+        font-size: 12px;
+    }
+
+}
+
+@media (max-width: 860px) {
+    .row {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .col-3 {
+        width: 80% !important;
+        margin-bottom: 30px;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+
+    .features-left {
+        height: 200px;
+    }
+
+    .recommended-plan {
+        order: -1;
+    }
+
+
+
+}

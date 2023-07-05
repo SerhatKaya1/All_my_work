@@ -1,0 +1,28 @@
+@model List<Kategori>
+@{
+    ViewData["Title"] = "Kategori Listesi";
+}
+
+<h1 class="display-6">Kategori Listesi</h1>
+<hr>
+<a asp-controller="Home" asp-action="KategoriEkle" class="btn btn-outline-primary">Yeni Kategori</a>
+<hr>
+<table class="table table-sm table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Kategori Adı</th>
+            <th>Açıklama</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var k in Model)
+        {
+            <tr>
+                <td>@k.Id</td>
+                <td><a asp-controller="Home" asp-action="KitapListesi" asp-route-id=@k.Id>@k.Ad</a></td>
+                <td>@k.Aciklama</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,28 @@
+﻿@using ShoppingApp.Web.Models.Dtos
+@model ProductDto
+<div class="card mb-2" style="height:300px;">
+    <div class="card-img p-2 text-center">
+        <img class="img-fluid" src="/images/@Model.ImageUrl" style="width:50px; height:105px;" />
+    </div>
+    <div class="card-body">
+        <h5 class="card-title text-center">@Model.Name</h5>
+        <div class="text-muted text-center">@($"{Model.Price:C0}")</div>
+    </div>
+    <div class="card-footer bg-light d-flex justify-content-around">
+        <a class="btn btn-primary btn-sm" 
+            asp-controller="Shop"
+            asp-action="ProductDetails"
+            asp-route-producturl=@Model.Url
+        >İncele</a>
+        <form 
+            asp-controller="Card"
+            asp-action="AddToCard"
+            method="post"
+        >
+            <input type="hidden" name="productId" value="@Model.Id" />
+            <input type="hidden" name="quantity" value="1" />
+            <button type="submit" class="btn btn-success btn-sm">Sepete Ekle</button>
+        </form>
+        
+    </div>
+</div>

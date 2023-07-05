@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid05_InterfaceSegregation", "Solid05_InterfaceSegregation.csproj", "{87FDA1F7-0F79-41A7-AB35-C1A0BA9D2779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87FDA1F7-0F79-41A7-AB35-C1A0BA9D2779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FDA1F7-0F79-41A7-AB35-C1A0BA9D2779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FDA1F7-0F79-41A7-AB35-C1A0BA9D2779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FDA1F7-0F79-41A7-AB35-C1A0BA9D2779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F54239F-3C85-48A9-9DD2-BB8F89ABF1BC}
+	EndGlobalSection
+EndGlobal

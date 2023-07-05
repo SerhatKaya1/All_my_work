@@ -1,0 +1,23 @@
+@* Burası her bir KİTABI göstermeye yarar! *@
+@model KitapListViewModel
+<div class="col-4">
+    <div class="card text-center mb-4" style="height:270px">
+        <div class="card-header bg-primary text-white">
+            <h6 class=" display-6 fs-6 fw-normal m-0">@Model.Ad</h6>
+        </div>
+        <div class="card-body bg-light">
+            <div class="card-title">
+                @Model.KategoriAd
+            </div>
+            <div>
+                <p>Yazar: @Model.YazarAd</p>
+                <p>Basım Yılı: @Model.BasimYili</p>
+                <p>Sayfa Sayısı: @Model.SayfaSayisi</p>
+            </div>
+        </div>
+        <div class="card-footer">
+            <a asp-controller="Home" asp-action="Detay" asp-route-id=@Model.Id class="btn btn-sm btn-info">İncele</a>
+            <a class="btn btn-sm btn-success">Sepete Ekle</a>
+        </div>
+    </div>
+</div>

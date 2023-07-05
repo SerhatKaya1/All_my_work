@@ -1,0 +1,25 @@
+﻿@using ShoppingApp.Web.Models.Dtos
+@model List<ProductDto>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome ShoppingApp</h1>
+</div>
+<div class="mt-4 row">
+    <div class="col-3">
+        @await Component.InvokeAsync("Categories")
+        @await Html.PartialAsync("_Search")
+    </div>
+    <div class="col-9">
+        <div class="row">
+            @foreach (var productDto in Model)
+            {
+                <div class="col-md-3">
+                    @await Html.PartialAsync("_ProductPartial", productDto)
+                </div>
+            }
+        </div>
+    </div>
+</div>
