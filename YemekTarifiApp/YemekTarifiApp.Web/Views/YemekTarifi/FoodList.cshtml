@@ -1,0 +1,28 @@
+﻿@using YemekTarifiApp.Web.Models.Dtos
+@model List<FoodDto>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome YemekTarifleri Sitesine</h1>
+</div>
+<div class="mt-4 row">
+    <div class="col-3">
+        @await Component.InvokeAsync("Categories")
+        @await Html.PartialAsync("_Search")
+    </div>
+    <div class="col-9">
+        <div class="row">
+            
+                @foreach (var foodDto in Model)
+                {
+                    <div class="col-md-4 bg-light">
+                        @await Html.PartialAsync("_FoodPartial", foodDto)
+                    </div>
+                }
+            </div>
+           
+        </div>
+    </div>
+</div>

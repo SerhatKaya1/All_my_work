@@ -1,0 +1,99 @@
+﻿@model FoodAddDto
+<h1>Yeni Yemek Ekleme</h1>
+<hr />
+<form asp-area="Admin"
+	  asp-controller="Food"
+	  asp-action="Create"
+	  method="post" enctype="multipart/form-data">
+	<div class="row">
+		<div class="col-8">
+			<div class="mb-3">
+				<label asp-for="Name" class="form-label"></label>
+				<input class="form-control" asp-for="Name">
+				<span asp-validation-for="Name" class="text-danger"></span>
+			</div>
+			<div class="mb-3">
+				<label asp-for="Material" class="form-label"></label>
+				<input class="form-control" asp-for="Material">
+				<span asp-validation-for="Material" class="text-danger"></span>
+			</div>
+
+			<div class="mb-3">
+				<label asp-for="RecipeMaking" class="form-label"></label>
+				<input class="form-control" asp-for="RecipeMaking">
+				<span asp-validation-for="RecipeMaking" class="text-danger"></span>
+			</div>
+
+			<div class="mb-3">
+				<label asp-for="Description" class="form-label"></label>
+				<input class="form-control" asp-for="Description">
+				<span asp-validation-for="Description" class="text-danger"></span>
+			</div>
+
+			<div class="mb-3">
+				<label asp-for="ImageFile" class="form-label"></label>
+				<input type="file" asp-for="ImageFile" accept="image/" />
+				<span asp-validation-for="ImageFile" class="text-danger"></span>
+			</div>
+			<div class="mb-3">
+				<label asp-for="Description" class="form-label"></label>
+				<textarea id="desc-editor" class="form-control" asp-for="Description"></textarea>
+				<span asp-validation-for="Description" class="text-danger"></span>
+			</div>
+			<button type="submit" class="btn btn-primary">Kaydet</button>
+		</div>
+		<div class="col-4">
+			<div>
+				<label asp-for="Categories"></label>
+			</div>
+
+			@foreach (var category in Model.Categories)
+			{
+				<div>
+					<input type="checkbox"
+					   class="form-check-input"
+					   name="selectedCategoryIds"
+					   value="@category.Id"
+					   @if (Model.SelectedCategoryIds!=null)
+					   {
+					   @(Model.SelectedCategoryIds.Any(sc=>sc==category.Id) ? "checked" : "")
+					   } />
+					<label>@category.Name</label>
+				</div>
+			}
+			
+
+			
+			<span asp-validation-for="SelectedCategoryIds" class="text-danger"></span>
+		</div>
+		<div class="mb-1">Seçenekler</div>
+		<div>
+			<input type="checkbox"
+				   class="form-check-input"
+				   asp-for="IsHome" />
+			<label asp-for="IsHome" class="form-label"></label>
+			<span asp-validation-for="IsHome" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<input type="checkbox"
+				   class="form-check-input"
+				   asp-for="IsApproved" />
+			<label asp-for="IsApproved" class="form-label"></label>
+			<span asp-validation-for="IsApproved" class="text-danger"></span>
+		</div>
+	</div>
+</form>
+
+<script>
+
+	const imgViewer = document.getElementById('img-viewer');
+	const imgUrl = document.getElementById('img-url');
+	const imgFile = document.getElementById('ImageFile');
+
+	imgFile.addEventListener('change', function (event) {
+		const files = event.target.files;
+		imgViewer.setAttribute('src', window.URL.createObjectURL(files[0]));
+		imgUrl.innerText = files[0].name;
+	});
+	
+</script>

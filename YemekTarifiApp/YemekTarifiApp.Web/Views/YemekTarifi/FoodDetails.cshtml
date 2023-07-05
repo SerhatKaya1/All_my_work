@@ -1,0 +1,73 @@
+﻿@using YemekTarifiApp.Web.Models.Dtos
+@model FoodDetailsDto
+<div class="card">
+	<div class="card-body">
+		<div class="card">
+			<div class="col-12 ">
+				@* Resim gelecek *@
+				<img src="~/YemekTarifiImages/@Model.ImageUrl" style="width:1100px; height:400px;">
+			</div>
+
+			<h1 class="card-title display-6 text-primary fs-1" style="font-family:'Viner Hand ITC';">@Model.Name</h1>
+			@foreach (var category in Model.Categories)
+			{
+				<a href="#" class="btn btn-link p-0 mb-3">@category.Name</a>
+			}
+		
+			<div class="card border-primary mb-3 fs-3" style="font-family:Pristina"> 
+				
+				<div class="card-header fs-2"><strong>Yemek Malzemeleri</strong></div>
+				<p class="card-text">@Model.Material</p>
+				<div class="card-header"><strong>Yemek Tarifi</strong></div>
+
+				@foreach (var recipe in Model.Recipes)
+				{
+					@recipe.RecipeMaking
+				}
+				<div class="card-header"><strong>Yemek Açıklaması</strong></div>
+				
+				<p class="card-text">@Model.Description</p>
+
+			</div>
+				
+			<form asp-controller="YemekTarifi"
+				  asp-action="CommentCreate"
+				  method="post">
+				<input type="hidden" name="FoodId" value="@Model.Id" />
+				<div class="row">
+					<div asp-validation-summary="All" class="text-danger"></div>
+					<label class="fs-3" style="font-family:Pristina"><strong>Adı-Soyadı</strong></label>
+					<input type="text" name="Name" class="form-control" />
+
+					<label class="fs-3" style="font-family:Pristina"><strong>Mail</strong></label>
+					<input type="text" name="Mail" class="form-control" />
+
+					<div class="form-floating">
+						<br />
+						<textarea class="form-control fs-2" style="font-family:Pristina"
+								  placeholder="Buraya bir yorum bırakın" name="Details" id="foodId"></textarea>
+						<label class="fs-3" style="font-family:Pristina" for="floatingTextarea">Comments</label>
+					</div>
+					@*YEMEĞE YILDIZ VERMEK İÇİN TASARIM*@
+					<p class="card-text">@Model.Point</p>
+					@*YEMEĞE YORUM YAPMAK İÇİN TASARIM*@
+					<input  type="submit" class="btn btn-info fs-3" style="font-family:Pristina" value="Yorum Yap" />
+					<div class="card-header fs-2" style="font-family:Pristina"><strong>Yemeğe Yapılan Yorumlar</strong></div>
+					
+					@foreach (var comment in Model.Comments)
+					{
+						<h4 class="bg-warning" style="font-family:Pristina">@comment.Name</h4>
+						<a></a>
+						@comment.Details
+						@comment.DateAdded
+						@comment.Mail
+					}
+				</div>
+
+			</form>
+		</div>
+	</div>
+</div>
+<hr />
+
+

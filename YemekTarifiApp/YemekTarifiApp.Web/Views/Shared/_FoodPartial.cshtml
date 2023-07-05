@@ -1,0 +1,19 @@
+﻿@using YemekTarifiApp.Web.Models.Dtos
+@model FoodDto
+<div class="card mb-2 bg-success">
+    <div class="card-img p-2 text-center">
+        <img class="img-fluid" src="~/YemekTarifiImages/@Model.ImageUrl" style="width: 100px; height:100px;" />
+    </div>
+    <div class="card-body">
+        <h5 class="card-title text-center">@Model.Name</h5>
+    </div>
+    <div class="card-footer bg-white d-flex justify-content-around">
+        <a class="btn btn-primary btn-sm"
+           asp-controller="YemekTarifi"
+           asp-action="FoodDetails"
+           asp-route-foodurl=@Model.Url>Tarifi İncele</a>
+       
+    </div>
+</div>
+
+

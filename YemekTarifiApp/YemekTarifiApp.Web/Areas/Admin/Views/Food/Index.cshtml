@@ -1,0 +1,104 @@
+﻿@model List<FoodListDto>
+<h1>Yemekler</h1>
+<hr />
+<a class="btn btn-outline-primary"
+   asp-area="Admin"
+   asp-controller="Food"
+   asp-action="Create">Yeni Yemek Ekle</a>
+<hr />
+
+<table class="table table-responsive table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Resim</th>
+            <th>Adı</th>
+            <th>Yemek Malzemesi</th>
+            <th>Yemek Tarifi</th>
+            <th>Yemek Hakkında Açıklama</th>
+            <th>Kategorisi</th>
+            <th>Anasayfa</th>
+            <th>Onaylı</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Food.Id</td>
+                <td>
+                    <img src="/YemekTarifiImages/@item.Food.ImageUrl" width="30" />
+                </td>
+                <td>@item.Food.Name</td>
+                <td>@item.Food.Material</td>
+               @* <td>@item.Food.RecipeMaking</td>*@
+
+                <td>
+                    <ul>
+
+                        @foreach (var recipe in item.Food.FoodRecipes)
+                        {
+                            <li>@recipe.Recipe.RecipeMaking</li>
+                        }
+                    </ul>
+                </td>
+
+                <td>@item.Food.Description</td>
+               
+                <td>
+                    <ul>
+   
+                        @foreach (var category in item.Food.FoodCategories)
+                        {
+                            <li>@category.Category.Name</li>
+                        }
+                    </ul>
+                </td>
+
+                <td>
+                    <form id="isHomeForm_@item.Food.Id"
+                      asp-area="Admin"
+                      asp-controller="Food"
+                      asp-action="UpdateIsHome"
+                      asp-route-id="@item.Food.Id">
+                        <input onchange="document.getElementById('isHomeForm_@item.Food.Id').submit();"
+                           type="checkbox"
+                           class="form-check-input"
+                           value="@item.Food.IsHome"
+                           @(item.Food.IsHome ? "checked" : "") />
+                    </form>
+                </td>
+
+                <td>
+                    <form id="isApprovedForm_@item.Food.Id"
+                      asp-area="Admin"
+                      asp-controller="Food"
+                      asp-action="UpdateIsApproved"
+                      asp-route-id="@item.Food.Id">
+                        <input onchange="document.getElementById('isApprovedForm_@item.Food.Id').submit();"
+                           type="checkbox"
+                           class="form-check-input"
+                           value="@item.Food.IsApproved"
+                           @(item.Food.IsApproved ? "checked" : "") />
+                    </form>
+                </td>
+                
+                <td>
+
+                    <a class="btn btn-warning btn-sm"
+                   asp-area="Admin"
+                   asp-controller="Food"
+                   asp-action="Edit"
+                   asp-route-id=@item.Food.Id>Düzenle</a>
+
+                   @await Html.PartialAsync("_FoodDeletePartial", item.Food)
+
+            
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
