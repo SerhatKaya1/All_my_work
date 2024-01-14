@@ -1,0 +1,13 @@
+C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\ShoppingApp\ShoppingApp.Entity\bin\Debug\net7.0\ShoppingApp.Entity.deps.json
+C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\ShoppingApp\ShoppingApp.Entity\bin\Debug\net7.0\ShoppingApp.Entity.dll
+C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\ShoppingApp\ShoppingApp.Entity\bin\Debug\net7.0\ShoppingApp.Entity.pdb
+C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\ShoppingApp\ShoppingApp.Entity\obj\Debug\net7.0\ShoppingApp.Entity.csproj.AssemblyReference.cache
+C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\ShoppingApp\ShoppingApp.Entity\obj\Debug\net7.0\ShoppingApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\ShoppingApp\ShoppingApp.Entity\obj\Debug\net7.0\ShoppingApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\ShoppingApp\ShoppingApp.Entity\obj\Debug\net7.0\ShoppingApp.Entity.AssemblyInfo.cs
+C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\ShoppingApp\ShoppingApp.Entity\obj\Debug\net7.0\ShoppingApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\ShoppingApp\ShoppingApp.Entity\obj\Debug\net7.0\ShoppingApp.Entity.sourcelink.json
+C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\ShoppingApp\ShoppingApp.Entity\obj\Debug\net7.0\ShoppingApp.Entity.dll
+C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\ShoppingApp\ShoppingApp.Entity\obj\Debug\net7.0\refint\ShoppingApp.Entity.dll
+C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\ShoppingApp\ShoppingApp.Entity\obj\Debug\net7.0\ShoppingApp.Entity.pdb
+C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\ShoppingApp\ShoppingApp.Entity\obj\Debug\net7.0\ref\ShoppingApp.Entity.dll

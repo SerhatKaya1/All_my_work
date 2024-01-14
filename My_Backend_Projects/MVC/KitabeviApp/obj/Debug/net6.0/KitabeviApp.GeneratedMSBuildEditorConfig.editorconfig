@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = KitabeviApp
+build_property.RootNamespace = KitabeviApp
+build_property.ProjectDir = c:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\MVC\KitabeviApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\MVC\KitabeviApp
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Home/Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Home/KategoriEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLYXRlZ29yaUVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Home/KategoriGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLYXRlZ29yaUd1bmNlbGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Home/KategoriListesi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLYXRlZ29yaUxpc3Rlc2kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Home/KategoriSil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLYXRlZ29yaVNpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Home/KitapEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLaXRhcEVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Home/KitapGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLaXRhcEd1bmNlbGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Home/KitapListesi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLaXRhcExpc3Rlc2kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Home/KitapSil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLaXRhcFNpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Home/YazarEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxZYXphckVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Home/YazarGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxZYXphckd1bmNlbGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Home/YazarListesi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxZYXphckxpc3Rlc2kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Home/YazarSil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxZYXphclNpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Shared/Components/Kategoriler/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcS2F0ZWdvcmlsZXJcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Shared/Components/Yazarlar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcWWF6YXJsYXJcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Shared/_KayitYok.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9LYXlpdFlvay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Shared/_Kitap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9LaXRhcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Shared/_Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/MVC/KitabeviApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nypz2x1685

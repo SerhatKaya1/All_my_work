@@ -1,0 +1,4 @@
+C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\MVC\KitabeviApp\obj\Debug\net6.0\KitabeviApp.csproj.AssemblyReference.cache
+C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\MVC\KitabeviApp\obj\Debug\net6.0\KitabeviApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\MVC\KitabeviApp\obj\Debug\net6.0\KitabeviApp.AssemblyInfoInputs.cache
+C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\MVC\KitabeviApp\obj\Debug\net6.0\KitabeviApp.AssemblyInfo.cs

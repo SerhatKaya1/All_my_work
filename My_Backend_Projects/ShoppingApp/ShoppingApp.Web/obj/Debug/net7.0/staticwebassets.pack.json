@@ -1,0 +1,449 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ShoppingApp.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShoppingApp.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\10.png",
+      "PackagePath": "staticwebassets\\images\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\11.png",
+      "PackagePath": "staticwebassets\\images\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\1142c0d8-f9c7-42f6-9064-bb2c56795ef0.png",
+      "PackagePath": "staticwebassets\\images\\1142c0d8-f9c7-42f6-9064-bb2c56795ef0.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\12.png",
+      "PackagePath": "staticwebassets\\images\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\13.png",
+      "PackagePath": "staticwebassets\\images\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\14.png",
+      "PackagePath": "staticwebassets\\images\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\15.png",
+      "PackagePath": "staticwebassets\\images\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\16.png",
+      "PackagePath": "staticwebassets\\images\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\17.png",
+      "PackagePath": "staticwebassets\\images\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\18.png",
+      "PackagePath": "staticwebassets\\images\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\19.png",
+      "PackagePath": "staticwebassets\\images\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\20.png",
+      "PackagePath": "staticwebassets\\images\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\21.png",
+      "PackagePath": "staticwebassets\\images\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\22.png",
+      "PackagePath": "staticwebassets\\images\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\278a685a-480c-4dac-8d9b-b48302f204ef.png",
+      "PackagePath": "staticwebassets\\images\\278a685a-480c-4dac-8d9b-b48302f204ef.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\360b46a3-ca98-40ac-a001-9bd8f3c4c06c.png",
+      "PackagePath": "staticwebassets\\images\\360b46a3-ca98-40ac-a001-9bd8f3c4c06c.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\3de20355-f0fc-4bd6-a038-47cabfe4e48e.png",
+      "PackagePath": "staticwebassets\\images\\3de20355-f0fc-4bd6-a038-47cabfe4e48e.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\43e04433-cb33-4f1c-8363-0c3e22edf047.png",
+      "PackagePath": "staticwebassets\\images\\43e04433-cb33-4f1c-8363-0c3e22edf047.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\494bc533-a6e6-46af-9103-81dab45e3911.png",
+      "PackagePath": "staticwebassets\\images\\494bc533-a6e6-46af-9103-81dab45e3911.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\4bcb83ed-3ab1-4719-8402-1a62cc75ef80.png",
+      "PackagePath": "staticwebassets\\images\\4bcb83ed-3ab1-4719-8402-1a62cc75ef80.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\4bd11078-52cb-488d-83b9-8f523ae761a6.png",
+      "PackagePath": "staticwebassets\\images\\4bd11078-52cb-488d-83b9-8f523ae761a6.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\599ac18c-d86f-4b32-bab2-20a087f6934b.png",
+      "PackagePath": "staticwebassets\\images\\599ac18c-d86f-4b32-bab2-20a087f6934b.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\6.png",
+      "PackagePath": "staticwebassets\\images\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\680fb5a3-f633-4e18-8133-e12d6ae53efa.png",
+      "PackagePath": "staticwebassets\\images\\680fb5a3-f633-4e18-8133-e12d6ae53efa.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\7.png",
+      "PackagePath": "staticwebassets\\images\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\7fef1e17-ed74-4e17-af1e-3de0e1db3af1.png",
+      "PackagePath": "staticwebassets\\images\\7fef1e17-ed74-4e17-af1e-3de0e1db3af1.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\8.png",
+      "PackagePath": "staticwebassets\\images\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\8d275fe1-f813-4b79-89ae-d25cfa87db40.png",
+      "PackagePath": "staticwebassets\\images\\8d275fe1-f813-4b79-89ae-d25cfa87db40.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\9.png",
+      "PackagePath": "staticwebassets\\images\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\NoPicture.png",
+      "PackagePath": "staticwebassets\\images\\NoPicture.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\a18d8894-01d4-44f8-89c7-626ebe704b66.png",
+      "PackagePath": "staticwebassets\\images\\a18d8894-01d4-44f8-89c7-626ebe704b66.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\a30a1084-b20b-4cd6-8e03-1c68551e55c5.png",
+      "PackagePath": "staticwebassets\\images\\a30a1084-b20b-4cd6-8e03-1c68551e55c5.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\aa066330-6157-4c3f-b739-e452ad43b056.png",
+      "PackagePath": "staticwebassets\\images\\aa066330-6157-4c3f-b739-e452ad43b056.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\d4303154-fbec-4f9d-b42b-79b8d514b02e.png",
+      "PackagePath": "staticwebassets\\images\\d4303154-fbec-4f9d-b42b-79b8d514b02e.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\d8f35b40-57a4-4ed1-b477-865c4bac650b.png",
+      "PackagePath": "staticwebassets\\images\\d8f35b40-57a4-4ed1-b477-865c4bac650b.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\e0cfbdb3-8c59-43d4-b900-39aea418b35f.png",
+      "PackagePath": "staticwebassets\\images\\e0cfbdb3-8c59-43d4-b900-39aea418b35f.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\ea6f14eb-91b3-4500-8183-a68019019881.png",
+      "PackagePath": "staticwebassets\\images\\ea6f14eb-91b3-4500-8183-a68019019881.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\f004cd5e-c630-4ede-8bd9-9cf1f616f87d.png",
+      "PackagePath": "staticwebassets\\images\\f004cd5e-c630-4ede-8bd9-9cf1f616f87d.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\f5b9b455-6d37-46c5-9ad1-6359e74b3adf.png",
+      "PackagePath": "staticwebassets\\images\\f5b9b455-6d37-46c5-9ad1-6359e74b3adf.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\f5c81b69-7465-47e9-8347-0da011805585.png",
+      "PackagePath": "staticwebassets\\images\\f5c81b69-7465-47e9-8347-0da011805585.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\images\\f92cc5db-f62a-4934-abaa-e7b6720ec4b1.png",
+      "PackagePath": "staticwebassets\\images\\f92cc5db-f62a-4934-abaa-e7b6720ec4b1.png"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Serkan\\Documents\\GitHub\\KAYA96\\All_my_work\\My_Backend_Projects\\ShoppingApp\\ShoppingApp.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ShoppingApp.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ShoppingApp.Web.props",
+      "PackagePath": "build\\ShoppingApp.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ShoppingApp.Web.props",
+      "PackagePath": "buildMultiTargeting\\ShoppingApp.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ShoppingApp.Web.props",
+      "PackagePath": "buildTransitive\\ShoppingApp.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

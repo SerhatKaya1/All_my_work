@@ -1,0 +1,173 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = YemekTarifiApp.Web
+build_property.RootNamespace = YemekTarifiApp.Web
+build_property.ProjectDir = C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\YemekTarifiApp\YemekTarifiApp.Web\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Serkan\Documents\GitHub\KAYA96\All_my_work\My_Backend_Projects\YemekTarifiApp\YemekTarifiApp.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/Food/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9vZFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/Food/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9vZFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/Food/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9vZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/Role/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/Role/UserRoles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxVc2VyUm9sZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/Shared/_AdminSideBarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pblNpZGVCYXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/Shared/_FoodDeletePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Gb29kRGVsZXRlUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/Account/Manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxNYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/Home/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/Shared/Components/Categories/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcmllc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/Shared/_FoodPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb29kUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/Shared/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/Shared/_Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/YemekTarifi/FoodDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWVtZWtUYXJpZmlcRm9vZERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/YemekTarifi/FoodList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWVtZWtUYXJpZmlcRm9vZExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Serkan/Documents/GitHub/KAYA96/All_my_work/My_Backend_Projects/YemekTarifiApp/YemekTarifiApp.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1i2jq7il1x

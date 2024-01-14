@@ -1,0 +1,76 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Form</h1>
+
+<form id="myForm">
+    <label for="name">İsim:</label>
+    <input type="text" id="name" name="name">
+    <label for="surname">Soyisim:</label>
+    <input type="text" id="surname" name="surname">
+    <label for="address">Adres:</label>
+    <input type="text" id="address" name="address">
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email">
+    <button type="button" onclick="createExcel()">Excel Oluştur</button>
+</form>
+
+<h1>Data Table</h1>
+<table id="myTable" class="display">
+    <thead>
+        <tr>
+            <th>İsim</th>
+            <th>Soyisim</th>
+            <th>Adres</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Tablo içeriği burada doldurulacak -->
+    </tbody>
+</table>
+
+@section scripts {
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.6/css/jquery.dataTables.css">
+    <script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.css" />
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.js"></script>
+    <script>
+        function createExcel() {
+            // Formdan verileri al
+            var name = $("#name").val();
+            var surname = $("#surname").val();
+            var address = $("#address").val();
+            var email = $("#email").val();
+
+            // Excel oluştur butonuna tıklandığında, gelen verileri HomeController'daki CreateExcel metoduyla işle
+            $.ajax({
+                url: "/Home/CreateExcel",
+                type: "POST",
+                data: { name: name, surname: surname, address: address, email: email },
+                success: function (data) {
+                    // DataTable'a verileri ekle
+                    var table = $('#myTable').DataTable();
+                    table.row.add([name, surname, address, email]).draw(false);
+
+                    // Excel dosyasını indir
+                    var a = document.createElement("a");
+                    a.href = URL.createObjectURL(new Blob([data], { type: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" }));
+                    a.download = "persons.xlsx";
+                    document.body.appendChild(a);
+                    a.click();
+                    document.body.removeChild(a);
+                },
+                error: function (error) {
+                    console.error(error);
+                }
+            });
+        }
+
+        // DataTable
+        $(document).ready(function () {
+            $('#myTable').DataTable();
+        });
+    </script>
+}
