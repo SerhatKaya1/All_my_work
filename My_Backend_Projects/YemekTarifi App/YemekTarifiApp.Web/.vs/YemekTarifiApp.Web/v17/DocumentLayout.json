@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2933D695-2A4E-4287-83B9-A1E6CDE32355}|..\\YemekTarifiApp.Entity\\YemekTarifiApp.Entity.csproj|c:\\users\\serhat kaya\\documents\\github\\erp-3\\projeler\\serhat kaya\\28.01.2023-f\u0130nal\\yemektarifiapp.entity\\concrate\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0294B00-9767-4E38-8E2D-D5FA8525BB17}|YemekTarifiApp.Web.csproj|c:\\users\\serhat kaya\\documents\\github\\erp-3\\projeler\\serhat kaya\\28.01.2023-f\u0130nal\\yemektarifiapp.web\\controllers\\yemektarificontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0294B00-9767-4E38-8E2D-D5FA8525BB17}|YemekTarifiApp.Web.csproj|solutionrelative:controllers\\yemektarificontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0294B00-9767-4E38-8E2D-D5FA8525BB17}|YemekTarifiApp.Web.csproj|c:\\users\\serhat kaya\\documents\\github\\erp-3\\projeler\\serhat kaya\\28.01.2023-f\u0130nal\\yemektarifiapp.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0294B00-9767-4E38-8E2D-D5FA8525BB17}|YemekTarifiApp.Web.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2933D695-2A4E-4287-83B9-A1E6CDE32355}|..\\YemekTarifiApp.Entity\\YemekTarifiApp.Entity.csproj|c:\\users\\serhat kaya\\documents\\github\\erp-3\\projeler\\serhat kaya\\28.01.2023-f\u0130nal\\yemektarifiapp.entity\\concrate\\foodrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2933D695-2A4E-4287-83B9-A1E6CDE32355}|..\\YemekTarifiApp.Entity\\YemekTarifiApp.Entity.csproj|c:\\users\\serhat kaya\\documents\\github\\erp-3\\projeler\\serhat kaya\\28.01.2023-f\u0130nal\\yemektarifiapp.entity\\concrate\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0294B00-9767-4E38-8E2D-D5FA8525BB17}|YemekTarifiApp.Web.csproj|c:\\users\\serhat kaya\\documents\\github\\erp-3\\projeler\\serhat kaya\\28.01.2023-f\u0130nal\\yemektarifiapp.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0294B00-9767-4E38-8E2D-D5FA8525BB17}|YemekTarifiApp.Web.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0294B00-9767-4E38-8E2D-D5FA8525BB17}|YemekTarifiApp.Web.csproj|c:\\users\\serhat kaya\\documents\\github\\erp-3\\projeler\\serhat kaya\\28.01.2023-f\u0130nal\\yemektarifiapp.web\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0294B00-9767-4E38-8E2D-D5FA8525BB17}|YemekTarifiApp.Web.csproj|solutionrelative:areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0294B00-9767-4E38-8E2D-D5FA8525BB17}|YemekTarifiApp.Web.csproj|c:\\users\\serhat kaya\\documents\\github\\erp-3\\projeler\\serhat kaya\\28.01.2023-f\u0130nal\\yemektarifiapp.web\\areas\\admin\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0294B00-9767-4E38-8E2D-D5FA8525BB17}|YemekTarifiApp.Web.csproj|solutionrelative:areas\\admin\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0294B00-9767-4E38-8E2D-D5FA8525BB17}|YemekTarifiApp.Web.csproj|c:\\users\\serhat kaya\\documents\\github\\erp-3\\projeler\\serhat kaya\\28.01.2023-f\u0130nal\\yemektarifiapp.web\\areas\\admin\\views\\food\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0294B00-9767-4E38-8E2D-D5FA8525BB17}|YemekTarifiApp.Web.csproj|solutionrelative:areas\\admin\\views\\food\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0294B00-9767-4E38-8E2D-D5FA8525BB17}|YemekTarifiApp.Web.csproj|c:\\users\\serhat kaya\\documents\\github\\erp-3\\projeler\\serhat kaya\\28.01.2023-f\u0130nal\\yemektarifiapp.web\\areas\\admin\\models\\dtos\\categoryadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0294B00-9767-4E38-8E2D-D5FA8525BB17}|YemekTarifiApp.Web.csproj|solutionrelative:areas\\admin\\models\\dtos\\categoryadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0294B00-9767-4E38-8E2D-D5FA8525BB17}|YemekTarifiApp.Web.csproj|c:\\users\\serhat kaya\\documents\\github\\erp-3\\projeler\\serhat kaya\\28.01.2023-f\u0130nal\\yemektarifiapp.web\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0294B00-9767-4E38-8E2D-D5FA8525BB17}|YemekTarifiApp.Web.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435CDDDA-9934-49A7-988E-983322047E39}|..\\YemekTarifiApp.Data\\YemekTarifiApp.Data.csproj|c:\\users\\serhat kaya\\documents\\github\\erp-3\\projeler\\serhat kaya\\28.01.2023-f\u0130nal\\yemektarifiapp.data\\config\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Entity\\Concrate\\Recipe.cs",
+              "RelativeDocumentMoniker": "..\\YemekTarifiApp.Entity\\Concrate\\Recipe.cs",
+              "ToolTip": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Entity\\Concrate\\Recipe.cs",
+              "RelativeToolTip": "..\\YemekTarifiApp.Entity\\Concrate\\Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:53:18.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FoodRecipe.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Entity\\Concrate\\FoodRecipe.cs",
+              "RelativeDocumentMoniker": "..\\YemekTarifiApp.Entity\\Concrate\\FoodRecipe.cs",
+              "ToolTip": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Entity\\Concrate\\FoodRecipe.cs",
+              "RelativeToolTip": "..\\YemekTarifiApp.Entity\\Concrate\\FoodRecipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:53:16.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Entity\\Concrate\\Food.cs",
+              "RelativeDocumentMoniker": "..\\YemekTarifiApp.Entity\\Concrate\\Food.cs",
+              "ToolTip": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Entity\\Concrate\\Food.cs",
+              "RelativeToolTip": "..\\YemekTarifiApp.Entity\\Concrate\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:52:29.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:51:02.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Web\\Areas\\Admin\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\FoodController.cs",
+              "ToolTip": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Web\\Areas\\Admin\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\FoodController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:50:21.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Web\\Areas\\Admin\\Views\\Food\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Food\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Web\\Areas\\Admin\\Views\\Food\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Food\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T17:50:08.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Web\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T17:50:03.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Web\\Areas\\Admin\\Models\\Dtos\\CategoryAddDto.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Models\\Dtos\\CategoryAddDto.cs",
+              "ToolTip": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Web\\Areas\\Admin\\Models\\Dtos\\CategoryAddDto.cs",
+              "RelativeToolTip": "Areas\\Admin\\Models\\Dtos\\CategoryAddDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:49:52.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:48:27.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YemekTarifiController.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Web\\Controllers\\YemekTarifiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\YemekTarifiController.cs",
+              "ToolTip": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Web\\Controllers\\YemekTarifiController.cs",
+              "RelativeToolTip": "Controllers\\YemekTarifiController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:37:18.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Web\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:49:42.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Data\\Config\\CategoryConfig.cs",
+              "RelativeDocumentMoniker": "..\\YemekTarifiApp.Data\\Config\\CategoryConfig.cs",
+              "ToolTip": "C:\\Users\\Serhat Kaya\\Documents\\GitHub\\ERP-3\\Projeler\\Serhat Kaya\\28.01.2023-F\u0130NAL\\YemekTarifiApp.Data\\Config\\CategoryConfig.cs",
+              "RelativeToolTip": "..\\YemekTarifiApp.Data\\Config\\CategoryConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:48:59.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
